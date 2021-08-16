@@ -1,0 +1,112 @@
+/*  tela - home  */
+.style_card_destaque_principal{
+    width: 370px;
+}
+.style_card_outros_destaque{
+    width: 240px;
+    margin: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+.container_destaque{
+    width: 750px;
+    padding:5px;
+    margin-left: 10px;
+}
+.container_importante{
+    width: 365px;
+    padding:5px;
+}
+.container_outros_destaques{
+    width: 750px;
+    padding:5px;
+    margin-left: 10px;
+}
+.container_videos{
+    width: 365px;
+    padding:5px;
+}
+@media screen and (max-width: 1199px) and (min-width: 992px){
+    .container_destaque{
+        width: 630px;
+        padding:5px;
+        margin-left: 10px;
+    }
+    .container_importante{
+        width: 310px;
+        padding:5px;
+    }
+    .container_videos{
+        width: 310px;
+        padding:5px;
+    }
+    .style_card_destaque_principal{
+        width: 310px;
+        
+    }
+    .style_card_outros_destaque{
+        width: 300px;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+    .container_outros_destaques{
+        width: 630px;
+        padding:5px;
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+    .container_destaque{
+        width: 350px;
+        padding:5px;
+        margin-left: 10px;
+    }
+    .container_importante{
+        width: 350px;
+        padding:5px;
+    }
+    .container_outros_destaques{
+        width: 350px;
+        padding:5px;
+        margin-left: 10px;
+    }
+    .container_videos{
+        width: 350px;
+        padding:5px;
+    }
+    .style_card_outros_destaque{
+        width: 100%;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+}
+@media screen and (max-width: 768px) and (min-width: 0px){
+    .container_destaque{
+        width: 100%;
+    }
+    .container_importante{
+        width: 100%;
+        margin-left: 10px;
+    }
+    .container_videos{
+        width: 100%;
+        margin-left: 10px;
+    }
+    .style_card_outros_destaque{
+        width: 100%;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+    .style_card_destaque_principal{
+        width: 100%;
+    }
+    .style_card_outros_destaque{
+        width: 100%;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+    .container_outros_destaques{
+        width: 100%;
+    }
+}
+
+/* X tela - home X */
