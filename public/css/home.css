@@ -21,7 +21,9 @@
     padding:5px;
     margin-left: 10px;
 }
-.container_videos{
+.container_labs{
+    right: calc(-760px);
+    position: relative;
     width: 365px;
     padding:5px;
 }
@@ -35,7 +37,9 @@
         width: 310px;
         padding:5px;
     }
-    .container_videos{
+    .container_labs{
+        position: relative;
+        right: calc(-640px);
         width: 310px;
         padding:5px;
     }
@@ -69,7 +73,10 @@
         padding:5px;
         margin-left: 10px;
     }
-    .container_videos{
+    .container_labs{
+        position: relative;
+        right: -360px;
+        bottom: 475px;
         width: 350px;
         padding:5px;
     }
@@ -79,6 +86,18 @@
         margin-bottom: 1rem;
     }
 }
+
+@media screen and (max-width: 768px) and (min-width: 768px) and (min-height: 1024px) and (max-height: 1024px){
+
+    .container_labs{
+        position: relative;
+        right: -360px;
+        bottom: 0 !important;
+        width: 350px;
+        padding:5px;
+    }
+    
+}
 @media screen and (max-width: 768px) and (min-width: 0px){
     .container_destaque{
         width: 100%;
@@ -87,7 +106,9 @@
         width: 100%;
         margin-left: 10px;
     }
-    .container_videos{
+    .container_labs{
+        position: relative;
+        right: -5px;
         width: 100%;
         margin-left: 10px;
     }
@@ -116,6 +137,60 @@
 .navbar-nav > li{
     margin-left:8px;
     margin-right:8px;
+}
+
+.navbar-toggler{
+    color: #848484 !important;
+}
+
+.navbar-toggler span{
+    color: #848484 !important;
+}
+
+.event-number{
+    width: 55px;
+    height: 60px; 
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 15px;
+    margin-right: 10px;
+    font-size: 25px;
+    color: #707070;
+}
+
+.header-container{
+    text-align: center;
+    margin-bottom: 0.9rem;
+}
+
+#first-header{
+    text-align: center;
+    margin-bottom: 0.9rem;
+}
+
+#last-header{
+    text-align: center;
+    margin-bottom: 0.9rem;
+}
+
+footer{
+    height: 100px;
+    background-color: #000000;
+    bottom: 0px;
+}
+
+.footer-container{
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+#logo-ufape{
+    margin-top: 0.9rem;
+}
+
+#logo-socials{
+    color: white;
+    margin-top: 1.8rem;
 }
 
 a, a:focus, a:active{
