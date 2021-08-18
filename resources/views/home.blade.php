@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="{{asset('css/home.css')}}">
     </head>
     <body>
-        <div class="row container header-container justify-content-center">
+        {{-- <div class="row container header-container justify-content-center">
             <div class= "col-md-4" id= "first-header">
                 <div class="row justify-content-center">
 
@@ -28,7 +28,7 @@
             </div>
             <div class= "col-md-4" id="logo-header">
                 <a href="/">
-                <img src="{{asset('img/bcc-Google-preto.png')}}" alt="logo bcc" width="auto" height="130px"> </img></a> 
+                <img src="{{asset('img/bcc-Google-preto.png')}}" alt="logo bcc" width="auto" height="130px"</a>
             </div>
             <div class= "col-md-4" id= "last-header">
                 <div class="row justify-content-center">
@@ -39,10 +39,28 @@
                         <a href="#">Entrar</a>
                     </div>
                     <div class = "col-md-2">
-                        
+
                     </div>
                 </div>
             </div>
+        </div> --}}
+        <div class="container header">
+            <div class="header-first">
+                    <a class="nav-link" href="#">Sobre</a>
+                    <a class="nav-link" href="#">Curso</a>
+            </div>
+
+            <div class="header-center">
+                    <a href="/">
+                        <img src="{{asset('img/bcc-Google-preto.png')}}" alt="logo bcc" width="auto" height="130px">
+                    </a>
+            </div>
+
+            <div class="header-last">
+                    <a class="nav-link" href="#">Localizar</a>
+                    <a class="nav-link" href="//codeply.com">Entrar</a>
+            </div>
+
         </div>
         <!-- menu principal -->
 

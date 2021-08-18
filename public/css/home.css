@@ -96,7 +96,7 @@
         width: 350px;
         padding:5px;
     }
-    
+
 }
 @media screen and (max-width: 768px) and (min-width: 0px){
     .container_destaque{
@@ -129,6 +129,12 @@
         width: 100%;
     }
 }
+@media screen and (max-width: 514px){
+    .header a{
+        display: inherit !important;
+        margin: 10px 0px !important;
+    }
+}
 
 .nav-link{
     color: #848484 !important;
@@ -149,7 +155,7 @@
 
 .event-number{
     width: 55px;
-    height: 60px; 
+    height: 60px;
     text-align: center;
     padding-top: 10px;
     padding-left: 15px;
@@ -182,6 +188,7 @@ footer{
 .footer-container{
     text-align: center;
     margin-top: 0.5rem;
+    margin-right: 0;
 }
 
 #logo-ufape{
@@ -201,6 +208,18 @@ a, a:focus, a:active{
 a:hover{
     text-decoration: none;
     color:#4150f0;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+.header-first, .header-last {
+    align-self: center;
+}
+
+.header-first a, .header-last a{
+    display: inline;
 }
 
 /* X tela - home X */
