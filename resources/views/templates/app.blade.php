@@ -76,7 +76,7 @@
         <!-- conteudo -->
         <div class="container" style="margin-top: 2rem;">
             <div class="row ">
-                <div style="container-content">
+                <div class="container-content">
                     @yield('content')
                 </div>
 

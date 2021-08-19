@@ -28,7 +28,7 @@
     padding:5px;
 }
 @media screen and (max-width: 1199px) and (min-width: 992px){
-    .container_destaque{
+    .container-content{
         width: 630px;
         padding:5px;
         margin-left: 10px;
@@ -59,7 +59,7 @@
     }
 }
 @media screen and (max-width: 991px) and (min-width: 768px){
-    .container_destaque{
+    .container-content{
         width: 350px;
         padding:5px;
         margin-left: 10px;
@@ -99,7 +99,7 @@
 
 }
 @media screen and (max-width: 768px) and (min-width: 0px){
-    .container_destaque{
+    .container-content{
         width: 100%;
     }
     .container_importante{
