@@ -1,0 +1,227 @@
+/*  tela - home  */
+.style_card_destaque_principal{
+    width: 370px;
+}
+.style_card_outros_destaque{
+    width: 240px;
+    margin: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.container_importante{
+    width: 365px;
+    padding:5px;
+}
+.container_outros_destaques{
+    width: 750px;
+    padding:5px;
+    margin-left: 10px;
+}
+.container_labs{
+    right: calc(-760px);
+    position: relative;
+    width: 365px;
+    padding:5px;
+}
+@media screen and (max-width: 1199px) and (min-width: 992px){
+    .container_destaque{
+        width: 630px;
+        padding:5px;
+        margin-left: 10px;
+    }
+    .container_importante{
+        width: 310px;
+        padding:5px;
+    }
+    .container_labs{
+        position: relative;
+        right: calc(-640px);
+        width: 310px;
+        padding:5px;
+    }
+    .style_card_destaque_principal{
+        width: 310px;
+
+    }
+    .style_card_outros_destaque{
+        width: 300px;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+    .container_outros_destaques{
+        width: 630px;
+        padding:5px;
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+    .container_destaque{
+        width: 350px;
+        padding:5px;
+        margin-left: 10px;
+    }
+    .container_importante{
+        width: 350px;
+        padding:5px;
+    }
+    .container_outros_destaques{
+        width: 350px;
+        padding:5px;
+        margin-left: 10px;
+    }
+    .container_labs{
+        position: relative;
+        right: -360px;
+        bottom: 475px;
+        width: 350px;
+        padding:5px;
+    }
+    .style_card_outros_destaque{
+        width: 100%;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+}
+
+@media screen and (max-width: 768px) and (min-width: 768px) and (min-height: 1024px) and (max-height: 1024px){
+
+    .container_labs{
+        position: relative;
+        right: -360px;
+        bottom: 0 !important;
+        width: 350px;
+        padding:5px;
+    }
+
+}
+@media screen and (max-width: 768px) and (min-width: 0px){
+    .container_destaque{
+        width: 100%;
+    }
+    .container_importante{
+        width: 100%;
+        margin-left: 10px;
+    }
+    .container_labs{
+        position: relative;
+        right: -5px;
+        width: 100%;
+        margin-left: 10px;
+    }
+    .style_card_outros_destaque{
+        width: 100%;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+    .style_card_destaque_principal{
+        width: 100%;
+    }
+    .style_card_outros_destaque{
+        width: 100%;
+        margin: 0.3rem;
+        margin-bottom: 1rem;
+    }
+    .container_outros_destaques{
+        width: 100%;
+    }
+    #logo-socials .row{
+        display: inline-flex;
+        flex-flow: row nowrap;
+        width: 180px;
+    }
+}
+@media screen and (max-width: 514px){
+    .header a{
+        display: inherit !important;
+        margin: 10px 0px !important;
+    }
+}
+
+.nav-link{
+    color: #848484 !important;
+}
+
+.navbar-nav > li{
+    margin-left:8px;
+    margin-right:8px;
+}
+
+.navbar-toggler{
+    color: #848484 !important;
+}
+
+.navbar-toggler span{
+    color: #848484 !important;
+}
+
+.event-number{
+    width: 55px;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 15px;
+    margin-right: 10px;
+    font-size: 25px;
+    color: #707070;
+}
+
+.header-container{
+    text-align: center;
+    margin-bottom: 0.9rem;
+}
+
+#first-header{
+    text-align: center;
+    margin-bottom: 0.9rem;
+}
+
+#last-header{
+    text-align: center;
+    margin-bottom: 0.9rem;
+}
+
+footer{
+    height: auto;
+    background-color: #000000;
+    bottom: 0px;
+}
+
+.footer-container{
+    text-align: center;
+    margin-top: 0.5rem;
+    margin-right: 0;
+}
+
+#logo-ufape{
+    margin-top: 0.9rem;
+}
+
+#logo-socials{
+    color: white;
+    margin-top: 1.8rem;
+    margin-bottom: 20px;
+}
+
+a, a:focus, a:active{
+    text-decoration: none;
+    color: #707070;
+    transition: 0.3s;
+}
+a:hover{
+    text-decoration: none;
+    color:#4150f0;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+.header-first, .header-last {
+    align-self: center;
+}
+
+.header-first a, .header-last a{
+    display: inline;
+}
+
+/* X tela - home X */
