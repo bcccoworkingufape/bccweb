@@ -1,4 +1,7 @@
 @extends('templates.app')
+@section('head')
+    <link rel="stylesheet" href="{{asset('css/home.css')}}">
+@endsection
 @section('content')
 <div style="margin-bottom: 13px;font-size: 24px; font-weight: 700;">NOTÍCIAS</div>
 
