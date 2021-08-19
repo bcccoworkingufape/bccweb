@@ -7,7 +7,11 @@
     margin: 0.2rem;
     margin-bottom: 0.5rem;
 }
-
+.container-content{
+    width: 750px;
+    padding:5px;
+    margin-left: 10px;
+}
 .container_importante{
     width: 365px;
     padding:5px;
