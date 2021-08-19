@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/',[HomeController::class,'index']);
 Route::get('/documentos', [DocumentsController::class, 'index']);
 Route::get('/template', function(){ return view("template");});
+Route::get('/professores',[TeachersController::class,'index'])->name('teachers.index');
+Route::get('/professores/{id}',[TeachersController::class,'show'])->name('teachers.show');

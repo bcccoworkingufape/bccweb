@@ -49,7 +49,7 @@
                                 <a class="nav-link" href="#">Projetos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Professores</a>
+                                <a class="nav-link" href="{{route('teachers.index')}}">Professores</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Laboratórios</a>
