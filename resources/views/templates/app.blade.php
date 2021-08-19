@@ -140,34 +140,7 @@
 
             <!-- Laboratorios-->
             <div class="row">
-                <div class="container_labs">
-                    <div style="margin-bottom: 13px;font-size: 24px; font-weight: 700;">Laboratórios de Tecnologia</div>
-                    <div class="row">
-                        <div class="col-md-12" style="margin-bottom: 10px;">
-                            <div class="btn-group" style="border-color: #E9E9E9;border: solid 1px #E9E9E9; width: 100%;border-radius: 12px;">
-                                <div style=" margin-right: 10px;">
-                                    <img class="card-img-top" src="img/logo_bcccoworking.png" alt="Card image cap" style=" border-radius: 12px; width: 87px;">
-                                </div>
-                                <div class="form-group" style="margin-top: 15px;">
-                                    <div style="font-size: 14px;color: black;font-weight: 600; margin-top: -2px;"><a href="http://app.uag.ufrpe.br/bcccoworking/home"> BCC Coworking</a></div>
-                                    <div style="font-size: 12px;width: 95%;height: 100%; color: #707070;"><a href="http://app.uag.ufrpe.br/bcccoworking/home"> Laboratório de Pesquisa, Desenvolvimento & Inovação</a></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-12" style="margin-bottom: 10px;">
-                            <div class="btn-group" style="border-color: #E9E9E9;border: solid 1px #E9E9E9; width: 100%;border-radius: 12px;">
-                                <div style=" margin-right: 10px;">
-                                    <img class="card-img-top" src="img/logo_lmts.png" alt="Card image cap" style=" border-radius: 12px; width: 87px;">
-                                </div>
-                                <div class="form-group" style="margin-top: 15px;">
-                                    <div style="font-size: 14px;color: black;font-weight: 600; margin-top: -2px;"><a href="http://lmts.ufape.edu.br">LMTS</a></div>
-                                    <div style="font-size: 12px;width: 95%;height: 100%; color: #707070;"><a href="http://lmts.ufape.edu.br">Laboratório Multidisciplinar de Tecnologias Sociais</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
+                @yield('labs')
             </div>
         </div>
 
