@@ -1,0 +1,17 @@
+.remote-class{
+    margin-bottom: 13px;
+    font-size: 24px;
+    font-weight: 700
+}
+
+.remote-class-container{
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.links-container{
+    display: grid;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 1px;
+}

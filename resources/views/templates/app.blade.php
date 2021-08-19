@@ -16,7 +16,7 @@
         <div class="container header">
             <div class="header-first">
                     <a class="nav-link" href="#">Sobre</a>
-                    <a class="nav-link" href="#">Curso</a>
+                    <a class="nav-link" href="/curso">Curso</a>
             </div>
 
             <div class="header-center">
@@ -55,7 +55,7 @@
                                 <a class="nav-link" href="#">Laboratórios</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="//codeply.com">Ensino Remoto</a>
+                                <a class="nav-link" href="/ensino-remoto" style="color: #FF2323 !important"><strong> Ensino Remoto</strong></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/documentos">Documentos</a>
@@ -147,11 +147,11 @@
         <!-- rodape -->
         <footer>
             <div class="row footer-container justify-content-center">
-                <div class= "col-md-4">
-                    <img src="{{asset('img/bcc-Google-preto-2.png')}}" alt="logo bcc rodapé" width="auto" height="100px">
-                </div>
                 <div class= "col-md-4" id="logo-ufape">
-                    <img src="{{asset('img/logo_ufape_branco.png')}}" alt="logo ufape" width="160px">
+                    <img src="{{asset('img/logo_ufape_branco.png')}}" alt="logo ufape" width="160px" >
+                </div>
+                <div class= "col-md-4">
+                    <img src="{{asset('img/bcc-Google-preto-3.png')}}" alt="logo bcc rodapé" width="auto" height="100">
                 </div>
                 <div class= "col-md-4" id="logo-socials">
                     <div class="row justify-content-center">
