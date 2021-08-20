@@ -7,7 +7,8 @@ use Illuminate\Http\Request;
 class TeachersController extends Controller
 {
     public function index(){
-        return view('teachers.index');//TODO pass all the teachers to this view when the backend is built
+        $data = ["erik"=>["name"=>'erik']];
+        return view('teachers.index')->with();//TODO pass all the teachers to this view when the backend is built
     }
 
     /*$id -> name of teacher */
