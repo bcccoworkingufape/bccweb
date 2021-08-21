@@ -20,3 +20,6 @@ Route::get('/ensino-remoto', [RemoteClassesController::class, 'index']);
 Route::get('/template', function(){ return view("template");});
 Route::get('/professores',[TeachersController::class,'index'])->name('teachers.index');
 Route::get('/professores/{id}',[TeachersController::class,'show'])->name('teachers.show');
+Route::get('/noticias',[NewsController::class,'index'])->name('news.index');
+Route::get('/noticias/{id}',[NewsController::class,'show'])->name('news.show');
+

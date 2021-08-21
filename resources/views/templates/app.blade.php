@@ -43,7 +43,7 @@
                     <div class="navbar-collapse collapse" id="navbar10">
                         <ul class="navbar-nav nav-fill w-100">
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Notícias</a>
+                                <a class="nav-link" href="{{route('news.index')}}">Notícias</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Projetos</a>
