@@ -1,0 +1,31 @@
+#title{
+    width: 100%;
+    text-align: left;
+}
+#title h2{
+    width: 100%;
+    text-align: left;
+    color:#444;
+}
+#date{
+    align-self: flex-start;
+    margin-bottom: 8px;
+}
+
+#date span{
+    color:#999;
+    font-size: 70%;
+}
+#img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#img img{
+    width: calc(100% - 40px);
+}
+#description{
+    padding-top: 8px;
+    letter-spacing: -.5px;
+
+}
