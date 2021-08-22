@@ -6,18 +6,18 @@
 <ul class="teacher-list">
     <li class="teacher-item">
         <header>
-            <a  target="tab" href="#"><img src="{{$photo}}" alt="Erik Jhonatta" /></a>
+            <a  target="tab" href="#"><img src="{{$data->photo}}" alt="{{$data->name}}" /></a>
             <div class="teacher-info">
-                <strong>{{$name}}</strong>{{--nome!--}}
-                <span>{{$area}} - <a href="mailto:{{$email}}">{{$email}}</a></span>{{--área!--}}
+                <strong>{{$data->name}}</strong>{{--nome!--}}
+                <span>{{$data->area}} - <a href="mailto:{{$data->email}}">{{$data->email}}</a></span>{{--área!--}}
                 <p>
-                    {{$info}}
+                    {{$data->info}}
                 </p>
             </div>
         </header>
         <div class="teacher-links">
             <a target="_blank" href="#">Site do Professor</a>
-            <a target="_blank" href="{{$lattes}}">Acessar Lattes</a>
+            <a target="_blank" href="{{$data->lattes}}">Acessar Lattes</a>
         </div>
     </li>
 </ul>
