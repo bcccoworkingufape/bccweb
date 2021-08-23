@@ -23,4 +23,5 @@ Route::get('/professores/{id}',[TeachersController::class,'show'])->name('teache
 Route::get('/noticias',[NewsController::class,'index'])->name('news.index');
 Route::get('/noticias/{id}',[NewsController::class,'show'])->name('news.show');
 Route::get('/grupos-de-pesquisa', [ResearchGroupsController::class, 'index']);
+Route::get('/midia', [MediaController::class, 'index']);
 
