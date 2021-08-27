@@ -61,7 +61,7 @@
                                 <a class="nav-link" href="/documentos">Documentos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Mídia</a>
+                                <a class="nav-link" href="{{route('media.index')}}">Mídia</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/grupos-de-pesquisa">Grupos de Pesquisa</a>
