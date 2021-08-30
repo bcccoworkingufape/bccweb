@@ -231,3 +231,7 @@ a:hover{
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.form-group{
+    width: 100%;
+}

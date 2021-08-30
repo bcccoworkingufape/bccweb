@@ -83,7 +83,7 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">1º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Aula inaugural e Início do semestre letivo de 2020.2</div>
+                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Aula inaugural e Início do semestre letivo de 2020.2</div>
                                         <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">30/08/2021</div>
                                     </div>
                                 </div>
@@ -92,7 +92,7 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">2º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Reajuste de matrícula.</div>
+                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Reajuste de matrícula.</div>
                                         <div class="textDiv"style="font-size: 12px;width: 95%;color: #707070;">13-15/09/2021 - Deverá ser impresso ou anotado o protocolo do requerimento de matrícula, emitido pelo sig@/sigaa, para eventual comprovação 18 Último dia para cadastramento do seguro de estágio a ser realizado em outubro (www.preg.ufrpe.br/cge) </div>
                                     </div>
                                 </div>
@@ -101,7 +101,7 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">3º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Colação de Grau Unificada 2020.1</div>
+                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Colação de Grau Unificada 2020.1</div>
                                         <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">29/09/2021</div>
                                     </div>
                                 </div>
@@ -110,7 +110,7 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">4º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Cancelamento de disciplinas com ônus e trancamento de matrícula via sig@/sigaa</div>
+                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Cancelamento de disciplinas com ônus e trancamento de matrícula via sig@/sigaa</div>
                                         <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">04-08/10/2021</div>
                                     </div>
                                 </div>
@@ -119,8 +119,8 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">5º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Notícia</div>
-                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</div>
+                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Notícia</div>
+                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -143,7 +143,8 @@
                     <img src="{{asset('img/logo_ufape_branco.png')}}" alt="logo ufape" width="160px" >
                 </div>
                 <div class= "col-md-4">
-                    <img src="{{asset('img/bcc-Google-preto-3.png')}}" alt="logo bcc rodapé" width="auto" height="100">
+                    {{-- <img src="{{asset('img/bcc-Google-preto-3.png')}}" alt="logo bcc rodapé" width="auto" height="100">--}}
+                    <p></p>
                 </div>
                 <div class= "col-md-4" id="logo-socials">
                     <div class="row justify-content-center">
