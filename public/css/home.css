@@ -196,14 +196,14 @@ footer{
     margin-right: 0;
 }
 
-#logo-ufape{
-    margin-top: 0.9rem;
-}
-
 #logo-socials{
     color: white;
     margin-top: 1.8rem;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 a, a:focus, a:active{
@@ -214,18 +214,6 @@ a, a:focus, a:active{
 a:hover{
     text-decoration: none;
     color:#4150f0;
-}
-.header{
-    display:flex;
-    justify-content: space-between;
-}
-
-.header-first, .header-last {
-    align-self: center;
-}
-
-.header-first a, .header-last a{
-    display: inline;
 }
 
 /* X tela - home X */

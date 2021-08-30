@@ -1,25 +1,25 @@
-li.groups-item{
+li.labs-item{
     background: #ececec;
     box-shadow: 0 0 14px 0 rgba(0,8,0,0.02);
     border-radius: 12px;
     padding: 10px;
 }
 
-li.groups-item header{
+li.labs-item header{
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-li.groups-item header img{
+li.labs-item header img{
     width: 74px;
     height: 74px;
     border-radius: 50%;
 }
-li.groups-item header .groups-info{
+li.labs-item header .labs-info{
     margin-left: 10px;
 }
 
-li.groups-item p {
+li.labs-item p {
     color: #668;
     font-size: 14px;
     line-height: 28px;
@@ -35,16 +35,16 @@ li.groups-item p {
     text-overflow: ellipsis;
 }
 
-li.groups-item a{
+li.labs-item a{
     color: #1492E6;
     font-size: 14px;
     text-decoration: none;
 }
-li.groups-item a:hover, li.groups-item header strong:hover{
+li.labs-item a:hover, li.labs-item header strong:hover{
     color: #4150f0 !important;
 }
 
-.groups-list{
+.labs-list{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
@@ -53,7 +53,7 @@ li.groups-item a:hover, li.groups-item header strong:hover{
     margin-top: 16px;
 }
 
-.groups-info strong{
+.labs-info strong{
     display: block;
     font-size:16px;
     color: #333;
