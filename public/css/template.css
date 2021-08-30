@@ -217,15 +217,7 @@ a:hover{
 }
 .header{
     display:flex;
-    justify-content: space-between;
-}
-
-.header-first, .header-last {
-    align-self: center;
-}
-
-.header-first a, .header-last a{
-    display: inline;
+    justify-content: center;
 }
 
 /* X tela - home X */

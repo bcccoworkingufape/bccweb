@@ -14,22 +14,11 @@
     </head>
     <body>
         <div class="container header">
-            <div class="header-first">
-                    <a class="nav-link" href="#">Sobre</a>
-                    <a class="nav-link" href="/curso">Curso</a>
-            </div>
-
             <div class="header-center">
                     <a href="/">
                         <img src="{{asset('img/logo_bcccoworking-2.png')}}" alt="logo bcc" width="auto" height="130px">
                     </a>
             </div>
-
-            <div class="header-last">
-                    <a class="nav-link" href="#">Localizar</a>
-                    <a class="nav-link" href="//codeply.com">Entrar</a>
-            </div>
-
         </div>
         <!-- menu principal -->
 
