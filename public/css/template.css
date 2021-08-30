@@ -221,3 +221,13 @@ a:hover{
 }
 
 /* X tela - home X */
+
+.textDiv{
+    word-break:normal;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

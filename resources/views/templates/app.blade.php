@@ -35,13 +35,13 @@
                                 <a class="nav-link" href="{{route('news.index')}}">Notícias</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Projetos</a>
+                                <a class="nav-link" href="{{route('news.index')}}">O Curso</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{route('teachers.index')}}">Professores</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Laboratórios</a>
+                                <a class="nav-link" href="#">Projetos</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/ensino-remoto" style="color: #FF2323 !important"><strong> Ensino Remoto</strong></a>
@@ -54,6 +54,9 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/grupos-de-pesquisa">Grupos de Pesquisa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Laboratórios</a>
                             </li>
                         </ul>
                     </div>
@@ -80,8 +83,8 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">1º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Notícia</div>
-                                        <div style="font-size: 12px;width: 95%;color: #707070;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</div>
+                                        <div style="font-weight: 600; color: #1492E6;">Aula inaugural e Início do semestre letivo de 2020.2</div>
+                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">30/08/2021</div>
                                     </div>
                                 </div>
                             </div>
@@ -89,8 +92,8 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">2º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Notícia</div>
-                                        <div style="font-size: 12px;width: 95%;color: #707070;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</div>
+                                        <div style="font-weight: 600; color: #1492E6;">Reajuste de matrícula.</div>
+                                        <div class="textDiv"style="font-size: 12px;width: 95%;color: #707070;">13-15/09/2021 - Deverá ser impresso ou anotado o protocolo do requerimento de matrícula, emitido pelo sig@/sigaa, para eventual comprovação 18 Último dia para cadastramento do seguro de estágio a ser realizado em outubro (www.preg.ufrpe.br/cge) </div>
                                     </div>
                                 </div>
                             </div>
@@ -98,8 +101,8 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">3º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Notícia</div>
-                                        <div style="font-size: 12px;width: 95%;color: #707070;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</div>
+                                        <div style="font-weight: 600; color: #1492E6;">Colação de Grau Unificada 2020.1</div>
+                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">29/09/2021</div>
                                     </div>
                                 </div>
                             </div>
@@ -107,8 +110,8 @@
                                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                                     <div class="event-number">4º</div>
                                     <div class="form-group" style="margin-top: 10px;">
-                                        <div style="font-weight: 600; color: #1492E6;">Notícia</div>
-                                        <div style="font-size: 12px;width: 95%;color: #707070;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</div>
+                                        <div style="font-weight: 600; color: #1492E6;">Cancelamento de disciplinas com ônus e trancamento de matrícula via sig@/sigaa</div>
+                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">04-08/10/2021</div>
                                     </div>
                                 </div>
                             </div>
@@ -117,7 +120,7 @@
                                     <div class="event-number">5º</div>
                                     <div class="form-group" style="margin-top: 10px;">
                                         <div style="font-weight: 600; color: #1492E6;">Notícia</div>
-                                        <div style="font-size: 12px;width: 95%;color: #707070;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</div>
+                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</div>
                                     </div>
                                 </div>
                             </div>
