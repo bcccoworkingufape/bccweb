@@ -115,15 +115,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-12" style="margin-bottom: 10px;">
-                                <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                                    <div class="event-number">5º</div>
-                                    <div class="form-group" style="margin-top: 10px;">
-                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Notícia</div>
-                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;"></div>
-                                    </div>
-                                </div>
-                            </div>
 
                     </div>
                 </div>
