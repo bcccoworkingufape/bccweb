@@ -191,19 +191,22 @@ footer{
 }
 
 .footer-container{
+    display: flex;
     text-align: center;
     margin-top: 0.5rem;
     margin-right: 0;
 }
-
-#logo-ufape{
-    margin-top: 0.9rem;
+.footer-container p{
+    color: white;
+    margin: 0;
 }
 
 #logo-socials{
     color: white;
     margin-top: 1.8rem;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 a, a:focus, a:active{
@@ -217,15 +220,27 @@ a:hover{
 }
 .header{
     display:flex;
-    justify-content: space-between;
-}
-
-.header-first, .header-last {
-    align-self: center;
-}
-
-.header-first a, .header-last a{
-    display: inline;
+    justify-content: center;
 }
 
 /* X tela - home X */
+
+.textDiv{
+    word-break:normal;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.form-group{
+    width: 100%;
+}
+
+#footer-center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
