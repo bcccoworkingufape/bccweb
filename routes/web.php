@@ -24,4 +24,5 @@ Route::get('/noticias',[NewsController::class,'index'])->name('news.index');
 Route::get('/noticias/{id}',[NewsController::class,'show'])->name('news.show');
 Route::get('/grupos-de-pesquisa', [ResearchGroupsController::class, 'index']);
 Route::get('/midia', [MediaController::class, 'index'])->name('media.index');
-
+Route::get('/laboratorios',[LabsController::class, 'index'])->name('labs.index');
+Route::get('/projetos', [ProjectsController::class, 'index'])->name('projects.index');
