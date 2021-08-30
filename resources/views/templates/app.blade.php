@@ -16,14 +16,14 @@
         <div class="container header">
             <div class="header-center">
                     <a href="/">
-                        <img src="{{asset('img/logo_bcccoworking-2.png')}}" alt="logo bcc" width="auto" height="130px">
+                        <img src="{{asset('img/logo_bcccoworking-2.png')}}" alt="logo bcc" width="auto" height="180px">
                     </a>
             </div>
         </div>
         <!-- menu principal -->
 
         <!-- menu secundario -->
-        <div class="container" style="margin-top: 15px;">
+        <div class="container" style="margin-top: -15px;">
             <nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #e5e4e5; padding:10px;border-radius: 9px" >
                 <div class="container">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar10">
