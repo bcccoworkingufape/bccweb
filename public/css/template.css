@@ -191,19 +191,22 @@ footer{
 }
 
 .footer-container{
+    display: flex;
     text-align: center;
     margin-top: 0.5rem;
     margin-right: 0;
 }
-
-#logo-ufape{
-    margin-top: 0.9rem;
+.footer-container p{
+    color: white;
+    margin: 0;
 }
 
 #logo-socials{
     color: white;
     margin-top: 1.8rem;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 a, a:focus, a:active{
@@ -234,4 +237,10 @@ a:hover{
 
 .form-group{
     width: 100%;
+}
+
+#footer-center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }

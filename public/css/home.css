@@ -196,14 +196,14 @@ footer{
     margin-right: 0;
 }
 
-#logo-ufape{
-    margin-top: 0.9rem;
-}
-
 #logo-socials{
     color: white;
     margin-top: 1.8rem;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 a, a:focus, a:active{

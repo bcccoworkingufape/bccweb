@@ -41,7 +41,7 @@
                                 <a class="nav-link" href="{{route('teachers.index')}}">Professores</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Projetos</a>
+                                <a class="nav-link" href="{{route('projects.index')}}">Projetos</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/ensino-remoto" style="color: #FF2323 !important"><strong> Ensino Remoto</strong></a>
@@ -56,7 +56,7 @@
                                 <a class="nav-link" href="/grupos-de-pesquisa">Grupos de Pesquisa</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Laboratórios</a>
+                                <a class="nav-link" href="{{route('labs.index')}}">Laboratórios</a>
                             </li>
                         </ul>
                     </div>
@@ -140,15 +140,14 @@
         <footer>
             <div class="row footer-container justify-content-center">
                 <div class= "col-md-4" id="logo-ufape">
-                    <img src="{{asset('img/logo_ufape_branco.png')}}" alt="logo ufape" width="160px" >
+                    <img src="{{asset('img/bcc-Google-preto-2.png')}}" alt="logo ufape" width="160px" >
                 </div>
-                <div class= "col-md-4">
-                    {{-- <img src="{{asset('img/bcc-Google-preto-3.png')}}" alt="logo bcc rodapé" width="auto" height="100">--}}
-                    <p></p>
+                <div id="footer-center" class= "col-md-4">
+                    <p>Desenvolvido por BCC Coworking</p>
                 </div>
                 <div class= "col-md-4" id="logo-socials">
-                    <div class="row justify-content-center">
-                        <div class="col-md-2">
+                    <div class="row justify-content-center" style="max-width: 275px;">
+                        <div class="col-md-2" style="width: 152px;">
                             <a href = "https://facebook.com/bccufape/" target="tab"><img src="{{asset('img/logo_facebook_branco.png')}}" alt = "icone fb" width="32px"></a>
                         </div>
                         <div class="col-md-2">
