@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/',[HomeController::class,'index']);
+Route::get('/',[HomeController::class,'index'])->name('home');
 Route::get('/documentos', [DocumentsController::class, 'index']);
 Route::get('/curso', function(){return view("course");});
 Route::get('/ensino-remoto', [RemoteClassesController::class, 'index']);

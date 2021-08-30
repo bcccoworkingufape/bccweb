@@ -68,56 +68,18 @@
         <!-- conteudo -->
         <div class="container" style="margin-top: 2rem;">
             <div class="row ">
-                <div class="container-content">
-                    @yield('content')
-                </div>
-
+                @if(!Route::is('home'))
+                    <div class="container-content" style="width: calc(100% - 18px);">
+                        @yield('content')
+                    </div>
+                @endif
+                @if(Route::is('home'))
+                    <div class="container-content">
+                        @yield('content')
+                    </div>
+                @endif
                 <!-- container eventos -->
-                <div class="container_importante" >
-                    <div class="form-group">
-                        <div style="margin-bottom: 13px;font-size: 24px; font-weight: 700;">EVENTOS</div>
-                    </div>
-                    <div class="row">
-
-                            <div class="col-md-12" style="margin-bottom: 10px;">
-                                <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                                    <div class="event-number">1º</div>
-                                    <div class="form-group" style="margin-top: 10px;">
-                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Aula inaugural e Início do semestre letivo de 2020.2</div>
-                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">30/08/2021</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12" style="margin-bottom: 10px;">
-                                <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                                    <div class="event-number">2º</div>
-                                    <div class="form-group" style="margin-top: 10px;">
-                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Reajuste de matrícula.</div>
-                                        <div class="textDiv"style="font-size: 12px;width: 95%;color: #707070;">13-15/09/2021 - Deverá ser impresso ou anotado o protocolo do requerimento de matrícula, emitido pelo sig@/sigaa, para eventual comprovação 18 Último dia para cadastramento do seguro de estágio a ser realizado em outubro (www.preg.ufrpe.br/cge) </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12" style="margin-bottom: 10px;">
-                                <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                                    <div class="event-number">3º</div>
-                                    <div class="form-group" style="margin-top: 10px;">
-                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Colação de Grau Unificada 2020.1</div>
-                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">29/09/2021</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12" style="margin-bottom: 10px;">
-                                <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                                    <div class="event-number">4º</div>
-                                    <div class="form-group" style="margin-top: 10px;">
-                                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Cancelamento de disciplinas com ônus e trancamento de matrícula via sig@/sigaa</div>
-                                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">04-08/10/2021</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                    </div>
-                </div>
+                @yield('events')
             </div>
 
 
