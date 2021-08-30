@@ -14,11 +14,11 @@
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <div class="row">
-                                                    <div class="col-md-12" style="margin-top:10px;margin-bottom: 10px;">
+                                                    {{-- <div class="col-md-12" style="margin-top:10px;margin-bottom: 10px;">
                                                         <span style="background-color: #FF0000; padding: 2px;padding-bottom: 5px; padding-left: 10px; padding-right: 11px; border-radius: 12px; color: #fFF;font-weight: 600;box-shadow: 1px 4px 5px -2px rgba(0,0,0,0.22);
                                                         -webkit-box-shadow: 1px 4px 5px -2px rgba(0,0,0,0.22);
                                                         -moz-box-shadow: 1px 4px 5px -2px rgba(0,0,0,0.22);">Evento</span>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="col-md-12" style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; font-weight: 500; line-height: 19px;color:black; margin-top: 10px; margin-bottom: 10px;">
                                                         Curso Online - Programação Web
                                                     </div>
@@ -47,11 +47,11 @@
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <div class="row">
-                                                    <div class="col-md-12" style="margin-top:10px;margin-bottom: 10px;">
+                                                    {{-- <div class="col-md-12" style="margin-top:10px;margin-bottom: 10px;">
                                                         <span style="background-color: #FF0000; padding: 2px;padding-bottom: 5px; padding-left: 10px; padding-right: 11px; border-radius: 12px; color: #fFF;font-weight: 600;box-shadow: 1px 4px 5px -2px rgba(0,0,0,0.22);
                                                         -webkit-box-shadow: 1px 4px 5px -2px rgba(0,0,0,0.22);
                                                         -moz-box-shadow: 1px 4px 5px -2px rgba(0,0,0,0.22);">Evento</span>
-                                                    </div>
+                                                    </div> --}}
                                                     <div class="col-md-12" style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; font-weight: 500; line-height: 19px;color:black; margin-top: 10px; margin-bottom: 10px;">
                                                         Curso Online - Programação Web
                                                     </div>
