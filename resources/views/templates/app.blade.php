@@ -99,7 +99,7 @@
                     <p>Desenvolvido por BCC Coworking</p>
                 </div>
                 <div class= "col-md-4" id="logo-socials">
-                    <div class="row justify-content-center" style="max-width: 275px;">
+                    <div class="row justify-content-center" style="max-width: 275px;align-content: center;">
                         <div class="col-md-2" style="width: 152px;">
                             <a href = "https://facebook.com/bccufape/" target="tab"><img src="{{asset('img/logo_facebook_branco.png')}}" alt = "icone fb" width="32px"></a>
                         </div>
