@@ -16,15 +16,6 @@
 
         }
     </script> --}}
-    <script>
-        window.onload=function(){
-         $(function(){
-             if(window.location.protocol==="https:")
-                 window.location.protocol="http";
-                 console.log("AAAA")
-         });
-     }
-    </script>
 <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/cb05b3c56bd75794a7c755e0f0838b5c.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 
 @endsection
