@@ -45,7 +45,7 @@ li.teacher-item a:hover, li.teacher-item header strong:hover{
 }
 .teacher-list{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     list-style: none;
     padding:0;

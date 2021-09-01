@@ -28,6 +28,7 @@ li.news-item .news-info{
 }
 
 li.news-item p {
+    width: 98%;
     color: #666;
     font-size: 14px;
     line-height: 28px;
