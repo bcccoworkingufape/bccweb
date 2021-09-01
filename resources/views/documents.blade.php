@@ -24,13 +24,12 @@
             <ul>
                 <li><strong>Resoluções</strong></li>
                 <ul>
-                    <li><a href="http://ufape.edu.br/sites/temaunidades.ufrpe.br/files/comissoes/Resolu%C3%A7%C3%A3o%20678%20de%202008%20%28Est%C3%A1gio%20Supervisionado%20Obrigat%C3%B3rio%29.pdf">
-                        Estágio Supervisionado Obrigatório(ESO)</li>
-                    <li>Trabalho de Conclusão do Curso (TCC)</li>
+                    <li><a href="https://drive.google.com/file/d/13Pf_fm4AYWIM9wHvgd9uhl5MRJXBuMUE/view" target="_blank">Estágio Supervisionado Obrigatório (ESO)</li>
+                    <li><a href="https://drive.google.com/file/d/1-tvDLr1QlhDOcBd3nODr1DAPuJItPlks/view" target="_blank">Trabalho de Conclusão do Curso (TCC)</a></li>
                </ul>
-                <li>PPC do Curso</li>
-                <li><a href="http://ufape.edu.br/sites/temaunidades.ufrpe.br/files/comissoes/Matriz_Curricular_BCC.pdf">Matriz Curricular</a></li>
-                <li><a href= "http://ufape.edu.br/sites/temaunidades.ufrpe.br/files/comissoes/Bcc_2020_2.pdf">Horário do Semestre</a></li>
+                <li><a href="https://drive.google.com/file/d/1ar9GSqJOTYUOHIMmEoDbPg_syhIbB53k/view" target="_blank">PPP do Curso</a></li>
+                <li><a href="https://drive.google.com/file/d/1A9ICUxQp4Y2OZ0C4kDVt6L9BGF3AeN-V/view" target="_blank">Matriz Curricular</a></li>
+                <li><a href="http://ufape.edu.br/sites/temaunidades.ufrpe.br/files/comissoes/Bcc_2020_2.pdf" target="_blank">Horário do Semestre</a></li>
                 <li>Manual do Discente</li>
             </ul>
 
