@@ -185,9 +185,11 @@
 }
 
 footer{
+    position: absolute;
     height: auto;
     background-color: #000000;
     bottom: 0px;
+    width: 100%;
 }
 
 .footer-container{
@@ -195,6 +197,7 @@ footer{
     text-align: center;
     margin-top: 0.5rem;
     margin-right: 0;
+
 }
 .footer-container p{
     color: white;
