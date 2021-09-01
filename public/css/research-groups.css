@@ -46,7 +46,7 @@ li.groups-item a:hover, li.groups-item header strong:hover{
 
 .groups-list{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     list-style: none;
     padding:0;

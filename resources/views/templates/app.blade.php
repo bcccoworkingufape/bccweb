@@ -35,7 +35,7 @@
                                 <a class="nav-link" href="{{route('news.index')}}">Notícias</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{route('news.index')}}">O Curso</a>
+                                <a class="nav-link" href="{{route('course.index')}}">O Curso</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{route('teachers.index')}}">Professores</a>
