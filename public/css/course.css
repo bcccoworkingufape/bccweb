@@ -7,7 +7,7 @@
 p{
     margin: 0;
 }
-p#lattes{
+p.bold{
     font-weight: 600;
 }
 .course-container{
@@ -33,4 +33,29 @@ a{
 }
 a:hover{
     color: #4150f0 !important;
+}
+
+.areasList{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    list-style: none;
+    padding:0;
+    /* margin-top: 16px; */
+}
+
+.areasList li{
+display: flex;
+flex-direction: column;
+}
+
+.areasList li img{
+    height: 50px;
+    width: auto;
+    align-self: center;
+
+}
+
+.areasList li p{
+    align-self: center;
 }
