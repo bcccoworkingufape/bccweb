@@ -92,7 +92,7 @@
     <div class="course">NDE:</div>
     <div class="course">COAA</div>
 
-    <div class="course">Outras Informações</div>
+    <div class="course">Outras Informações:</div>
     <p class="bold">Modalidade: <span style="font-weight:normal;">Bacharelado</span></p>
     <p class="bold">Título do Egresso: <span style="font-weight:normal;">Bacharel em Ciência da Computação</span></p>
     <p class="bold">Área do Conhecimento: <span style="font-weight:normal;">Ciências Exatas e da Terra</span></p>
