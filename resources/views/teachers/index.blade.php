@@ -18,7 +18,7 @@
         <p>
             {{$teacher->info}}
         </p>
-        <a  target="tab" href="{{$teacher->lattes}}">Acessar Lattes</a>
+        <a  target="tab" href="{{$teacher->lattes}}">Lattes</a>
     </li>
     @endforeach
 </ul>
