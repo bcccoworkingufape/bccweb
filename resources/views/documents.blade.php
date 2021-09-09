@@ -11,11 +11,12 @@
             <ul>
                 <li>Curso: Ciência da Computação</li>
                 <li>Modalidade: Bacharelado</li>
-                <li>Título do egresso: Bacharel em Ciência da Computação</li>
-                <li>Área de conhecimento: Ciências Exatas e da Terra</li>
-                <li>Modalidade de Educação: Presencial (ensino a distância restrito ao percentual imposto por legislação em vigor).</li>
-                <li>Número de vagas: 80 (oitenta) vagas anuais, sendo 40 (quarenta) vagas semestrais</li>
                 <li>Carga horária: 3.200 (três mil e duzentas) horas</li>
+                    <ul>
+                        <li>Estágio Supervisionado Obrigatório ESO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;300 horas</li>
+                        <li>Trabalho de Conclusão de Curso TCC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;180 horas</li>
+                        <li>Atividades Complementares ACC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;320 horas</li>
+                    </ul>
                 <li>Horário: Funcionamento Predominantemente Noturno</li>
             </ul>
         </div>
