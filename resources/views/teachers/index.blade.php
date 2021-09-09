@@ -9,7 +9,7 @@
     @foreach ($data as $teacher)
     <li class="teacher-item">
         <header>
-            <a  target="tab"  href="{{route('teachers.show',['id'=>$teacher->name])}}"><img src="{{$teacher->photo}}" alt="{{$teacher->name}}" /></a>
+            <a  style="position: relative;" target="tab"  href="{{route('teachers.show',['id'=>$teacher->name])}}"><img src="{{$teacher->photo}}" alt="{{$teacher->name}}" /></a>
             <div class="teacher-info">
                 <a  target="tab" href="{{route('teachers.show',['id'=>$teacher->name])}}"><strong>{{$teacher->name}}</strong>{{--nome!--}}</a>
                 <span>{{$teacher->area}}</span>{{--área!--}}
@@ -18,7 +18,7 @@
         <p>
             {{$teacher->info}}
         </p>
-        <a  target="tab" href="{{$teacher->lattes}}">Lattes</a>
+        <a id="lattes" target="tab" href="{{$teacher->lattes}}">Lattes</a>
     </li>
     @endforeach
 </ul>

@@ -13,7 +13,7 @@ class TeachersController extends Controller
             "email":"prof.alixandresantana@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4753668E2",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4753668E2"
         },
         "ÁlvaroAlvaresSobrinho":{
@@ -22,7 +22,7 @@ class TeachersController extends Controller
             "email":"alvaro.alvares86@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4442176P6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4442176P6"
         },
         "AssueroFonsecaXimenes":{
@@ -31,7 +31,7 @@ class TeachersController extends Controller
             "email":"assuero.ximenes@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4770522U6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4770522U6"
         },
         "DalitondaSilva": {
@@ -40,7 +40,7 @@ class TeachersController extends Controller
             "email":"daliton@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4265030P0",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4265030P0"
         },
         "DimasCassimirodoNascimentoFilho": {
@@ -49,7 +49,7 @@ class TeachersController extends Controller
             "email":"dimascnf@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4297253Y5",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4297253Y5"
         },
         "DianaVasconcelosLopes": {
@@ -58,7 +58,7 @@ class TeachersController extends Controller
             "email":"didilaster@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4779821D8",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4779821D8"
         },
         "DiogodeLimaLages": {
@@ -67,7 +67,7 @@ class TeachersController extends Controller
             "email":"diolages@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4485655P3",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4485655P3"
         },
         "EudesdaSilvaSantos": {
@@ -76,16 +76,16 @@ class TeachersController extends Controller
             "email":"eudesprof@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4753691Z6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4753691Z6"
         },
         "GersoniloOliveiradaSilva": {
             "name":"Gersonilo Oliveira da Silva",
             "area":"Matemática",
-            "email":"none@gmail.com",
+            "email":"",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4220375E8",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4220375E8"
         },
         "HelderFernandodeAraujoOliveira": {
@@ -94,7 +94,7 @@ class TeachersController extends Controller
             "email":"helderfern@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4251666D6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4251666D6"
         },
         "ÍcaroLinsLeitãodaCunha": {
@@ -103,7 +103,7 @@ class TeachersController extends Controller
             "email":"illdacunha@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4735709U4",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4735709U4"
         },
         "IgorMedeirosVanderlei": {
@@ -112,7 +112,7 @@ class TeachersController extends Controller
             "email":"igor.vanderlei@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4718526Y3"
         },
         "JeanCarlosTeixeiradeAraújo": {
@@ -121,7 +121,7 @@ class TeachersController extends Controller
             "email":"teixeirajean1@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4441815A6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4441815A6"
         },
         "KádnaMariaAlvesCamboimVale": {
@@ -130,16 +130,16 @@ class TeachersController extends Controller
             "email":"kadnacamboim@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4432732Z0",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4432732Z0"
         },
         "LuisFilipeAlvesPereira": {
             "name":"Luis Filipe Alves Pereira",
             "area":"Inteligência Computacional",
-            "email":"none@gmail.com",
+            "email":"",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4270319T0",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4270319T0"
         },
         "MarciusPetrúciodeA.Cavalcante": {
@@ -148,7 +148,7 @@ class TeachersController extends Controller
             "email":"marcius.petrucio@ufrpe.br",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4745170Y5",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4745170Y5"
         },
         "MariaAparecidaAmorimSibaldo": {
@@ -157,16 +157,16 @@ class TeachersController extends Controller
             "email":"maasibaldo@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4164767U0",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4164767U0"
         },
         "MarielJoséPimenteldeAndrade": {
             "name":"Mariel José Pimentel de Andrade",
             "area":"Física",
-            "email":"none@gmail.com",
+            "email":"",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4147747D6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4147747D6"
         },
         "MárioSansukeMaranhãoWatanabe": {
@@ -175,7 +175,7 @@ class TeachersController extends Controller
             "email":"sansukew@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4791978P1",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4791978P1"
         },
         "MuriloChavedardeSouzaAraújo": {
@@ -184,7 +184,7 @@ class TeachersController extends Controller
             "email":"murilochavedar@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4735877J3",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4735877J3"
         },
         "PriscillaKellyMachadoVieira": {
@@ -193,16 +193,16 @@ class TeachersController extends Controller
             "email":"priscillakmv@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4483741J6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4483741J6"
         },
         "RobsonSantosdeOliveira": {
             "name":"Robson Santos de Oliveira",
             "area":"Letras",
-            "email":"none@gmail.com",
+            "email":"",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4166289T6",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4166289T6"
         },
         "RodrigoCardosoAmaraldeAndrade": {
@@ -211,7 +211,7 @@ class TeachersController extends Controller
             "email":"rodrigocaa@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213235T1",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4213235T1"
         },
         "RodrigoGusmãodeCarvalhoRocha": {
@@ -220,16 +220,16 @@ class TeachersController extends Controller
             "email":"rgcrocha@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4240291H4",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4240291H4"
         },
         "RomeroLuizMendonçaSalesFilho": {
             "name":"Romero Luiz Mendonça Sales Filho",
             "area":"Estatística",
-            "email":"none@gmail.com",
+            "email":"",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4290803E3",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4290803E3"
         },
         "RyanRibeirodeAzevêdo": {
@@ -238,7 +238,7 @@ class TeachersController extends Controller
             "email":"ryanweb9@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4138777Y1",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4138777Y1"
         },
         "SérgioFranciscoT.deO.Mendonça": {
@@ -247,7 +247,7 @@ class TeachersController extends Controller
             "email":"sftdom@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4716183E4",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4716183E4"
         },
         "ThaísAlvesBurityRocha": {
@@ -256,7 +256,7 @@ class TeachersController extends Controller
             "email":"tata.burity@gmail.com",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4268683A2",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4268683A2"
         },
         "TiagoBuarqueAssunçãodeCarvalho": {
@@ -265,16 +265,16 @@ class TeachersController extends Controller
             "email":"tiago.buarque@ufape.edu.br",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4274619U9",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4274619U9"
         },
         "WellingtonRomeroSerafimFreire": {
             "name":"Wellington Romero Serafim Freire",
             "area":"Física",
-            "email":"none@gmail.com",
+            "email":"",
             "site":"#",
             "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4266656Y3",
-            "info":"Info sobre o professor",
+            "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4266656Y3"
         }
     }';
@@ -287,15 +287,8 @@ class TeachersController extends Controller
     /*$id -> name of teacher */
     public function show($id){//TODO dependency injection with id number of BD when backend is built
         $data = json_decode($this->data);
-        if($id == 'Erik Jhonatta'){
-            return view('teachers.show',['data'=>$data->ErikJhonatta]);
-        }
-        else if($id == 'David Brito'){
-            return view('teachers.show',['data'=>$data->DavidBrito]);
-        }
-        else if($id == 'Rodrigo Rocha'){
-            return view('teachers.show',['data'=>$data->RodrigoRocha]);
-        }
+        $id = str_replace(" ",'',$id);
+        return view('teachers.show',['data'=>$data->$id]);
     }
 
     /**
