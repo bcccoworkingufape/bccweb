@@ -17,7 +17,7 @@
 @endsection
 
 @section("content")
-<h2 id="title">Ciência da Computação</h2>
+<h2 id="title">Bacharelado em Ciência da Computação</h2>
 <div style="margin-top:0px"class="course">Objetivo do curso</div>
 <div class="course-container">
     <p>Formar profissionais com bases científicas e tecnológicas na área de computação, capazes de resolver problemas dos mais diferentes domínios, através de métodos e técnicas computacionais, para atuar de forma bem sucedida tanto na área acadêmica quanto no mercado de trabalho.</p>
@@ -88,9 +88,46 @@
     <a href="mailto:jean.teixeira@ufape.edu.br">jean.teixeira@ufape.edu.br</a>
     <p class="bold">Lattes: <a style="font-weight:normal;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4441815A6&tokenCaptchar=03AGdBq25aToJUIg0xQmDu7Z0K07aFayLUB064MvFNothzlt9S5QVd2aQd7xhiKtVec0R9gEbbzUOmTqlG7OGi7KDVEMVhrG2U_Xu9K0kfK3A_s7Wx_4BnQNbuUVifMZCj9qdJxJloEdzmv4-oq5A3Kd9rftcofQWJf0cEG6zmtIDsciQrKoImXNCxIKLZt7N8CUkkEDvpPQALCJIDkkBXj_5xRAp1OjcGJTiO7Hdo7e-sll5CCrZGIAsz-vr1iHhkAUztpMdHx3m_LgcFg3JoxgAi9z__jJjhKgkhiyPLUlJYbK_WxNxeON8xMGP2--ZyuKkVEXwroYOAmXdXKkYH1RFcsw8sH8mqC3-vIB40wqSY_ULVVwBeD06-sRmrUXM-lK8p8egq0EOX7qZOthhZbT_35LlGW9BYSTNaGGi1YU_f6mwXsXU92prHLHQPNRPSzuVVHLPYdHG6NUx7UP2Ku9zkiAQMbqOpdXvm7jn_uFkF_wYvV96K8jxzMRbyWEgOnzrzsVVh43uBXEodjVhoiNffZwuXo9lqTQ" target="_blank">Link</a></p>
 
-    <div class="course">CCD:</div>
-    <div class="course">NDE:</div>
-    <div class="course">COAA</div>
+    <div class="course">NDE – Núcleo Docente Estruturante:</div>
+    <p><a href="https://drive.google.com/file/d/115lvXn9tKg7vAThSN6G8FwvTK1kvNNGC/view" target="_blank"><strong>Portaria N° 12/2021 - CGCG</strong></a></p>
+    <p>Igor Medeiros Vanderlei</a></p>
+    <p>Jean Carlos Teixeira de Araújo</p>
+    <p>Diogo de Lima Lages</p>
+    <p>Dimas Cassimiro do Nascimento Filho</p>
+    <p>Gersonilo Oliveira da Silva</p>
+    <p>Ícaro Lins Leitão da Cunha</p>
+    <p>Murilo Chavedar de Souza Araújo</p>
+    <p>Rodrigo Gusmão de Carvalho Rocha</p>
+    <p>Sergio Francisco Tavares de Oliveira Mendonça</p>
+    <p>Tiago Buarque Assunção de Carvalho</p>
+
+    <div class="course">CCD – Colegiado de Curso:</div>
+    <p><a href="https://drive.google.com/file/d/1Zf4g2XjaomorqmFiQWVkGvk_QHC_K7eX/view" target="_blank"><strong> Portaria N° 13/2021 - CGCG</a></strong></p>
+    <p>Igor Medeiros Vanderlei</p>
+    <p>Jean Carlos Teixeira de Araújo</p>
+    <p>Assuero Fonseca Ximenes</p>
+    <p>Diogo de Lima Lages</p>
+    <p>Kadna Maria Alves Camboim Vale</p>
+    <p>Maria Aparecida Amorim Sibaldo de Carvalho</p>
+    <p>Priscilla Kelly Machado Vieira Azevedo</p>
+    <p>Rodrigo Cardoso Amaral de Andrade</p>
+    <p>Rodrigo Gusmão de Carvalho Rocha</p>
+    <p>Ryan Ribeiro de Azevedo</p>
+    <p>Thais Alves Burity Rocha</p>
+    <p>Alessandro dos Santos Marques Júnior</p>
+    <p>Cleovaldo José de Lima e Silva Junior</p>
+
+
+    <div class="course">COAA – Comissão de Orientação e Acompanhamento Acadêmico</div>
+    <p>Igor Medeiros Vanderlei</p>
+    <p>Jean Carlos Teixeira de Araújo</p>
+    <p>Gersonilo Oliveira da Silva</p>
+    <p>Murilo Chavedar de Souza Araújo</p>
+
+    <div class="course"> COE – Comissão de Estágio:</div>
+    <p>Igor Medeiros Vanderlei</p>
+    <p>Rodrigo Gusmão de Carvalho Rocha</p>
+    <p>Kadna Maria Alves Camboim Vale</p>
 
     <div class="course">Outras Informações:</div>
     <p class="bold">Modalidade: <span style="font-weight:normal;">Bacharelado</span></p>
