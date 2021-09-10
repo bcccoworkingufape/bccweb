@@ -3,6 +3,8 @@ li.teacher-item{
     box-shadow: 0 0 14px 0 rgba(0,8,0,0.02);
     border-radius: 12px;
     padding: 10px;
+    position: relative;
+    min-height: 108px;
 }
 
 li.teacher-item header{
@@ -11,6 +13,8 @@ li.teacher-item header{
     align-items: center;
 }
 li.teacher-item header img{
+    object-fit: contain;
+    background: white;
     width: 54px;
     height: 54px;
     border-radius: 50%;
@@ -68,4 +72,8 @@ li.teacher-item a:hover, li.teacher-item header strong:hover{
 }
 .pagination{
     justify-content: center;
+}
+#lattes{
+    position: absolute;
+    bottom: 10px;
 }
