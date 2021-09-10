@@ -11,8 +11,8 @@
                         <div class="style_card_destaque_principal">
                             <div class="" style="margin: 5px;position:relative;">
                                 <div class="newscont" style="background-color: #F6F6F6;border-radius: 12px; padding-bottom: 25px;position:relative;">
-                                <a href="{{route('news.show',['id'=>$news->title])}}"><img class="card-img-top" src="img/img_destaque_1.png" alt="Card image cap" style=" border-top-left-radius: 12px;border-top-right-radius: 12px;"></a>
-                                    <div class="container" style="padding-top: 10px;;">
+                                <a href="{{route('news.show',['id'=>$news->title])}}"><img style="max-height:215px;object-fit: fill;" class="card-img-top" src="{{$news->photo}}" alt="Card image cap" style=" border-top-left-radius: 12px;border-top-right-radius: 12px;"></a>    
+                                <div class="container" style="padding-top: 10px;;">
                                         <div class="row" >
                                             <div class="col-md-12" >
                                                 <div class="row">
