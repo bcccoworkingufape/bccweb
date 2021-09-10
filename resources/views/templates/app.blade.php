@@ -69,7 +69,7 @@
         <div class="container" style="margin-top: 2rem;">
             <div class="row ">
                 @if(!Route::is('home'))
-                    <div class="container-content" style="width: calc(100% - 18px);">
+                    <div class="container-content" style="min-height:400px; width: calc(100% - 18px);">
                         @yield('content')
                     </div>
                 @endif
