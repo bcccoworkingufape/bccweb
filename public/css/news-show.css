@@ -29,3 +29,17 @@
     letter-spacing: -.5px;
 
 }
+/* gambi */
+p{
+    display: flex;
+    justify-content: center;
+}
+#description{
+    display: flex;
+    flex-direction: column;
+}
+#description div{
+    display: flex;
+    justify-content: center;
+}
+/* gambi */

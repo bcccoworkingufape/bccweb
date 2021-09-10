@@ -20,7 +20,7 @@
                 <span>{{$news->date}}</span>
             </div>
             <div id="description">
-                <p>{{$news->description}}</p>
+                <p>{{strip_tags($news->description)}}</p>
             </div>
 
         </div>

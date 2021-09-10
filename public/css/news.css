@@ -12,6 +12,7 @@ li.news-item{
     position: relative;
 }
 .img-container img{
+    object-fit: contain;
     width: 138px;
     height: 138px;
     /* border-radius: 50%; */
@@ -96,4 +97,11 @@ li.news-item a:hover, li.news-item strong:hover{
 #date{
     align-self: flex-end;
     padding-right: 8px;
+}
+#description p{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
