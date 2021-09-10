@@ -12,6 +12,7 @@ li.news-item{
     position: relative;
 }
 .img-container img{
+    object-fit: contain;
     width: 138px;
     height: 138px;
     /* border-radius: 50%; */
