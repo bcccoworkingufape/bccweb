@@ -97,3 +97,10 @@ li.news-item a:hover, li.news-item strong:hover{
     align-self: flex-end;
     padding-right: 8px;
 }
+#description p{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
