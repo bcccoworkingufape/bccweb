@@ -30,7 +30,7 @@
         <p>
             Laboratórios 10, 11, 12, 21, 22, 23 e 24 - Disponíveis para aulas e práticas pedagógicas no geral
         </p>
-        <a  target="_blank" href="#">Solicitação de Agendamento</a>
+        <a  target="_blank" href="http://sistemas.ufape.edu.br/reserva/">Solicitação de Agendamento</a>
     </li>
 
     <li class="labs-item">
@@ -40,9 +40,6 @@
                 <strong>Laboratórios de Redes e Sistemas Distribuídos</strong>{{--nome!--}}</a>
             </div>
         </header>
-        <p>
-            Informações sobre o lab
-        </p>
     </li>
 
     <li class="labs-item">
@@ -64,9 +61,6 @@
                 <a  target="_blank" href="http://lmts.ufape.edu.br/"><strong>LMTS</strong>{{--nome!--}}</a>
             </div>
         </header>
-        <p>
-            Informações sobre o grupo
-        </p>
         <a href="http://lmts.ufape.edu.br/" target="_blank">Saiba mais</a>
     </li>
 
@@ -77,9 +71,6 @@
                 <a  target="_blank" href="http://app.uag.ufrpe.br/bcccoworking/home"><strong>BCC Coworking</strong>{{--nome!--}}</a>
             </div>
         </header>
-        <p>
-            Informações sobre o grupo
-        </p>
         <a  target="_blank" href="http://app.uag.ufrpe.br/bcccoworking/">Saiba mais</a>
     </li>
 @endsection
