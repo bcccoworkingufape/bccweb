@@ -136,7 +136,6 @@
 }
 @media screen and (max-width: 514px){
     .header a{
-        display: inherit !important;
         margin: 10px 0px !important;
     }
 }
@@ -233,3 +232,6 @@ a:hover{
     min-height: 424px;
 }
 /* X tela - home X */
+a.subtitle:hover{
+    color: black;
+}

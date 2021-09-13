@@ -136,7 +136,6 @@
 }
 @media screen and (max-width: 514px){
     .header a{
-        display: inherit !important;
         margin: 10px 0px !important;
     }
 }
@@ -248,4 +247,7 @@ a:hover{
 }
 a.nav-link:hover{
     color:black !important;
+}
+a.subtitle:hover{
+    color: black;
 }

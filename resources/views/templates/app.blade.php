@@ -15,8 +15,9 @@
     <body>
         <div class="container header">
             <div class="header-center">
-                    <a href="/">
+                    <a class='subtitle' href="/" style="display: flex;flex-direction: column;align-items:center;margin:12px 0">
                         <img src="{{asset('img/logo-bcc.png')}}" alt="logo bcc" width="180" height="auto">
+                        <span style="display:inline-block;font-size: 11px;font-weight: 900;color:black;">Bacharelado em Ciência da Computação</span>
                     </a>
             </div>
         </div>
@@ -93,7 +94,7 @@
         <footer>
             <div class="row footer-container justify-content-center">
                 <div class= "col-md-4" id="logo-ufape">
-                    <img src="{{asset('img/bcc-Google-preto-2.png')}}" alt="logo ufape" width="160px" >
+                    <img style="margin: 10px 0 10px 0"src="{{asset('img/bcc-Google-preto-2.png')}}" alt="logo ufape" width="auto" height='80px' >
                 </div>
                 <div id="footer-center" class= "col-md-4">
                     <p>Desenvolvido por BCC Coworking</p>
