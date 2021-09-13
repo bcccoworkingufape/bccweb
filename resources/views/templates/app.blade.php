@@ -26,9 +26,9 @@
         <!-- menu secundario -->
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #e5e4e5; padding:10px;border-radius: 9px" >
-                <div class="container">
+                <div class="container menu">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar10">
-                        <span class="navbar-toggler-icon" style="color: #848484 !important;"></span>
+                        <span class="navbar-toggler-icon" style="color: #black !important;"></span>
                     </button>
                     <div class="navbar-collapse collapse" id="navbar10">
                         <ul class="navbar-nav nav-fill w-100">
