@@ -280,7 +280,7 @@ class TeachersController extends Controller
     }';
     public function index(){
         $data = json_decode($this->data);
-        $data = $this->paginate($data,9);
+        $data = $this->paginate($data,15);
         return view('teachers.index',['data'=>$data]);//TODO pass all the teachers to this view when the backend is built
     }
 
