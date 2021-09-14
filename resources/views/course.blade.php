@@ -75,6 +75,7 @@
             <p class="bold">Mídia e Interação</p>
         </li>
     </ul>
+    <div class="centerTest">
     <div class="course">Contato:</div>
     <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
 
@@ -138,6 +139,7 @@
     <p class="bold">Carga horária: <span style="font-weight:normal;">3.200 (três mil e duzentas) horas</span></p>
     <p class="bold">Horário Funcionamento: <span style="font-weight:normal;">Predominantemente Noturno</span></p>
     <p class="bold">Local de Oferta: <span style="font-weight:normal;">Universidade Federal do Agreste de Pernambuco</span></p>
+    </div>
     <div id="map" style="height:500px; width:100%;margin-top: 10px;"></div>
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkdXPDBGp7UKth66QebQFNs5tTeHvwm9w&callback=initMap&libraries=&v=weekly"

@@ -60,3 +60,8 @@ flex-direction: column;
 .areasList li p{
     align-self: center;
 }
+.centerTest{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
