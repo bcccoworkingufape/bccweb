@@ -108,7 +108,7 @@
                         <a href="https://instagram.com/bccufape/" target="tab"><img src="{{asset('img/logo_instagram_branco.png')}}" alt = "icone insta" width="32px"></a>
                         </div>
                         <div class="col-md-2">
-                        <a href="#"> <img src="{{asset('img/logo_twitter_branco.png')}}" alt = "icone twitter" width="32px"></a>
+                        <a href="https://www.linkedin.com/company/coordena%C3%A7%C3%A3o-do-curso-de-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-da-ufape/" target="tab"> <img src="{{asset('img/linkedin.png')}}" alt = "icone twitter" width="32px"></a>
                         </div>
                     </div>
                 </div>
