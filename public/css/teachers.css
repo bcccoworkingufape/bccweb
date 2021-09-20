@@ -76,4 +76,9 @@ li.teacher-item a:hover, li.teacher-item header strong:hover{
 #lattes{
     position: absolute;
     bottom: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+    max-width: 90%;
 }

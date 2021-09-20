@@ -14,11 +14,12 @@
     //   });
     }
   </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 @endsection
 
 @section("content")
 <h2 id="title">Bacharelado em Ciência da Computação</h2>
-<div style="margin-top:0px"class="course">Objetivo do curso</div>
+<div id="obj" style="margin-top:0px"class="course">Objetivo do curso</div>
 <div class="course-container">
     <p>Formar profissionais com bases científicas e tecnológicas na área de computação, capazes de resolver problemas dos mais diferentes domínios, através de métodos e técnicas computacionais, para atuar de forma bem sucedida tanto na área acadêmica quanto no mercado de trabalho.</p>
 
@@ -76,18 +77,22 @@
         </li>
     </ul>
     <div class="centerTest">
-    <div class="course">Contato:</div>
-    <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
+    <div class="contact center">
+        <div class="course">Contato:</div>
+        <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
+    </div>
 
     <div class="course">Coordenador</div>
     <p>Igor Medeiros Vanderlei</p>
     <a href="mailto:igor.vanderlei@ufape.edu.br">igor.vanderlei@ufape.edu.br</a>
-    <p id="lattes">Lattes: <a style="font-weight:normal;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3&tokenCaptchar=03AGdBq275yFaY0hyRN1tk5PuXxApykdzECOiJT74RzJ21nV2YVPDK8KFg7hypyEUdOfGPnHWTK3uXbwodV_s-OcGtk8q2t4wgIN3RcDOCcr-gu5-gEo_VugMsRZHGdy-kczfdhfbOq0VQ4lDbmjGwkoZ_8CUfrQe_jJdWlqFzNmCVgyK0SeoE-IQGrCoMEXxpcaPnwo38tZBGmgsGAbNEbWO42GeD4VB1zwSv4u8rs2kWnwCD0A3q-D5SUoOHVzL4MsLdlm94T6hZsYeCvAvhMzML025-JbUXlwNjLSZ4c5HBbLvmVScVUBEZAfmnlWU8rkctjabsP_4QTIxsHo38zR0Ig1PnE0xzQy41XFCqCsWb3_--VtokrT8isia659bQJo8v82e3lqYfLmG9xcqk846900evTESNzBDmNnAKyN-f7mpKABogFLbu9YpRe8bbONmGu3xnaSjRxX426FavZHseZUgrvbBAh-9vqz8CcPX3Ex1NdqxxLpOwDEt1kk68ViPEDyD6BbHW-T2Qe09qfE3bFpsr1vEohg" target="_blank">Link</a></p>
+    <p class='bold'>Lattes: </p>
+    <a class="lattes" style="font-weight:normal;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3" target="_blank">http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3</a>
 
     <div class="course">Eventual Substituto</div>
     <p>Jean Carlos de Araújo Teixeira</p>
     <a href="mailto:jean.teixeira@ufape.edu.br">jean.teixeira@ufape.edu.br</a>
-    <p class="bold">Lattes: <a style="font-weight:normal;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4441815A6&tokenCaptchar=03AGdBq25aToJUIg0xQmDu7Z0K07aFayLUB064MvFNothzlt9S5QVd2aQd7xhiKtVec0R9gEbbzUOmTqlG7OGi7KDVEMVhrG2U_Xu9K0kfK3A_s7Wx_4BnQNbuUVifMZCj9qdJxJloEdzmv4-oq5A3Kd9rftcofQWJf0cEG6zmtIDsciQrKoImXNCxIKLZt7N8CUkkEDvpPQALCJIDkkBXj_5xRAp1OjcGJTiO7Hdo7e-sll5CCrZGIAsz-vr1iHhkAUztpMdHx3m_LgcFg3JoxgAi9z__jJjhKgkhiyPLUlJYbK_WxNxeON8xMGP2--ZyuKkVEXwroYOAmXdXKkYH1RFcsw8sH8mqC3-vIB40wqSY_ULVVwBeD06-sRmrUXM-lK8p8egq0EOX7qZOthhZbT_35LlGW9BYSTNaGGi1YU_f6mwXsXU92prHLHQPNRPSzuVVHLPYdHG6NUx7UP2Ku9zkiAQMbqOpdXvm7jn_uFkF_wYvV96K8jxzMRbyWEgOnzrzsVVh43uBXEodjVhoiNffZwuXo9lqTQ" target="_blank">Link</a></p>
+    <p class="bold">Lattes:</p>
+    <a class="lattes" style="font-weight:normal;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4441815A6" target="_blank">http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3</a>
 
     <div class="course">NDE – Núcleo Docente Estruturante:</div>
     <p><a href="https://drive.google.com/file/d/115lvXn9tKg7vAThSN6G8FwvTK1kvNNGC/view" target="_blank"><strong>Portaria N° 12/2021 - CGCG</strong></a></p>
@@ -119,7 +124,7 @@
     <p>Cleovaldo José de Lima e Silva Junior</p>
 
 
-    <div class="course">COAA – Comissão de Orientação e Acompanhamento Acadêmico</div>
+    <div class="course center">COAA – Comissão de Orientação e Acompanhamento Acadêmico</div>
     <p>Igor Medeiros Vanderlei</p>
     <p>Jean Carlos Teixeira de Araújo</p>
     <p>Gersonilo Oliveira da Silva</p>
@@ -131,14 +136,24 @@
     <p>Kadna Maria Alves Camboim Vale</p>
 
     <div class="course">Outras Informações:</div>
-    <p class="bold">Modalidade: <span style="font-weight:normal;">Bacharelado</span></p>
-    <p class="bold">Título do Egresso: <span style="font-weight:normal;">Bacharel em Ciência da Computação</span></p>
-    <p class="bold">Área do Conhecimento: <span style="font-weight:normal;">Ciências Exatas e da Terra</span></p>
-    <p class="bold">Modalidade de Educação: <span style="font-weight:normal;">Presencial (ensino a distância restrito ao percentual imposto por legislação em vigor)</span></p>
-    <p class="bold">Número de vagas: <span style="font-weight:normal;">80 (oitenta) vagas anuais, sendo 40 (quarenta) vagas semestrais</span></p>
-    <p class="bold">Carga horária: <span style="font-weight:normal;">3.200 (três mil e duzentas) horas</span></p>
-    <p class="bold">Horário Funcionamento: <span style="font-weight:normal;">Predominantemente Noturno</span></p>
-    <p class="bold">Local de Oferta: <span style="font-weight:normal;">Universidade Federal do Agreste de Pernambuco</span></p>
+    <div class="info center">
+    <p class="bold">Modalidade:</p>
+    <span style="font-weight:normal;">Bacharelado</span>
+    <p class="bold">Título do Egresso: </p>
+    <span style="font-weight:normal;">Bacharel em Ciência da Computação</span>
+    <p class="bold">Área do Conhecimento:</p>
+    <span style="font-weight:normal;">Ciências Exatas e da Terra</span>
+    <p class="bold">Modalidade de Educação: </p>
+    <span style="font-weight:normal;">Presencial (ensino a distância restrito ao percentual imposto por legislação em vigor)</span>
+    <p class="bold">Número de vagas: </p>
+    <span style="font-weight:normal;">80 (oitenta) vagas anuais, sendo 40 (quarenta) vagas semestrais</span>
+    <p class="bold">Carga horária: </p>
+    <span style="font-weight:normal;">3.200 (três mil e duzentas) horas</span>
+    <p class="bold">Horário Funcionamento: </p>
+    <span style="font-weight:normal;">Predominantemente Noturno</span>
+    <p class="bold">Local de Oferta: </p>
+    <span style="font-weight:normal;">Universidade Federal do Agreste de Pernambuco</span>
+    </div>
     </div>
     <div id="map" style="height:500px; width:100%;margin-top: 10px;"></div>
     <script

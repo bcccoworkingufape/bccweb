@@ -9,16 +9,16 @@
     @foreach ($data as $teacher)
     <li class="teacher-item">
         <header>
-            <a  style="position: relative;" target="tab"  href="{{route('teachers.show',['id'=>$teacher->name])}}"><img src="{{$teacher->photo}}" alt="{{$teacher->name}}" /></a>
+            <img src="{{$teacher->photo}}" alt="{{$teacher->name}}" />
             <div class="teacher-info">
-                <a  target="tab" href="{{route('teachers.show',['id'=>$teacher->name])}}"><strong>{{$teacher->name}}</strong>{{--nome!--}}</a>
+                <strong>{{$teacher->name}}</strong>
                 <span>{{$teacher->area}}</span>{{--área!--}}
             </div>
         </header>
         <p>
             {{$teacher->info}}
         </p>
-        <a id="lattes" target="tab" href="{{$teacher->lattes}}">Lattes</a>
+        <a id="lattes" target="tab" href="{{$teacher->lattes}}">{{$teacher->lattes}}</a>
     </li>
     @endforeach
 </ul>
