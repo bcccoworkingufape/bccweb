@@ -12,7 +12,7 @@ class TeachersController extends Controller
             "area":"Tecnologia da Informação",
             "email":"prof.alixandresantana@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4753668E2",
+            "lattes":"http://lattes.cnpq.br/3283294973534606",
             "info":"",
             "photo":"https://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4753668E2"
         },
@@ -21,7 +21,7 @@ class TeachersController extends Controller
             "area":"Algoritmos e Otimização",
             "email":"alvaro.alvares86@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4442176P6",
+            "lattes":"http://lattes.cnpq.br/5640399839698012",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4442176P6"
         },
@@ -30,7 +30,7 @@ class TeachersController extends Controller
             "area":"Tecnologia da Informação",
             "email":"assuero.ximenes@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4770522U6",
+            "lattes":"http://lattes.cnpq.br/0060135791012696",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4770522U6"
         },
@@ -39,7 +39,7 @@ class TeachersController extends Controller
             "area":"Computação Gráfica",
             "email":"daliton@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4265030P0",
+            "lattes":"http://lattes.cnpq.br/6513070331492998",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4265030P0"
         },
@@ -48,7 +48,7 @@ class TeachersController extends Controller
             "area":"Banco de Dados",
             "email":"dimascnf@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4297253Y5",
+            "lattes":"http://lattes.cnpq.br/3151296501932443",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4297253Y5"
         },
@@ -57,7 +57,7 @@ class TeachersController extends Controller
             "area":"Letras",
             "email":"didilaster@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4779821D8",
+            "lattes":"http://lattes.cnpq.br/9825478087460880",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4779821D8"
         },
@@ -66,7 +66,7 @@ class TeachersController extends Controller
             "area":"Engenharia da Computação",
             "email":"diolages@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4485655P3",
+            "lattes":"http://lattes.cnpq.br/8604204879805070",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4485655P3"
         },
@@ -75,7 +75,7 @@ class TeachersController extends Controller
             "area":"Letras",
             "email":"eudesprof@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4753691Z6",
+            "lattes":"http://lattes.cnpq.br/8701527300251171",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4753691Z6"
         },
@@ -84,7 +84,7 @@ class TeachersController extends Controller
             "area":"Matemática",
             "email":"",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4220375E8",
+            "lattes":"http://lattes.cnpq.br/8350170604040233",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4220375E8"
         },
@@ -93,7 +93,7 @@ class TeachersController extends Controller
             "area":"Engenharia da Computação",
             "email":"helderfern@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4251666D6",
+            "lattes":"http://lattes.cnpq.br/0097916965255705",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4251666D6"
         },
@@ -102,7 +102,7 @@ class TeachersController extends Controller
             "area":"Computação Gráfica",
             "email":"illdacunha@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4735709U4",
+            "lattes":"http://lattes.cnpq.br/6577405976489740",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4735709U4"
         },
@@ -111,7 +111,7 @@ class TeachersController extends Controller
             "area":"Teoria da Computação",
             "email":"igor.vanderlei@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3",
+            "lattes":"http://lattes.cnpq.br/7448139435512224",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4718526Y3"
         },
@@ -120,7 +120,7 @@ class TeachersController extends Controller
             "area":"Redes e Sistemas Distribuídos",
             "email":"teixeirajean1@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4441815A6",
+            "lattes":"http://lattes.cnpq.br/2498961747789618",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4441815A6"
         },
@@ -129,7 +129,7 @@ class TeachersController extends Controller
             "area":"Redes e Sistemas Distribuídos",
             "email":"kadnacamboim@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4432732Z0",
+            "lattes":"http://lattes.cnpq.br/2817387497612302",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4432732Z0"
         },
@@ -138,7 +138,7 @@ class TeachersController extends Controller
             "area":"Inteligência Computacional",
             "email":"",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4270319T0",
+            "lattes":"http://lattes.cnpq.br/7320714889983490",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4270319T0"
         },
@@ -147,7 +147,7 @@ class TeachersController extends Controller
             "area":"Matemática",
             "email":"marcius.petrucio@ufrpe.br",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4745170Y5",
+            "lattes":"http://lattes.cnpq.br/9419403034644726",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4745170Y5"
         },
@@ -156,7 +156,7 @@ class TeachersController extends Controller
             "area":"Teoria da Computação",
             "email":"maasibaldo@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4164767U0",
+            "lattes":"http://lattes.cnpq.br/6462709058060681",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4164767U0"
         },
@@ -165,7 +165,7 @@ class TeachersController extends Controller
             "area":"Física",
             "email":"",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4147747D6",
+            "lattes":"http://lattes.cnpq.br/3111765717865989",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4147747D6"
         },
@@ -174,7 +174,7 @@ class TeachersController extends Controller
             "area":"Matemática",
             "email":"sansukew@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4791978P1",
+            "lattes":"http://lattes.cnpq.br/4598453019812221",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4791978P1"
         },
@@ -183,7 +183,7 @@ class TeachersController extends Controller
             "area":"Matemática",
             "email":"murilochavedar@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4735877J3",
+            "lattes":"http://lattes.cnpq.br/1993682904308468",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4735877J3"
         },
@@ -192,7 +192,7 @@ class TeachersController extends Controller
             "area":"Banco de Dados",
             "email":"priscillakmv@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4483741J6",
+            "lattes":"http://lattes.cnpq.br/6410600495701632",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4483741J6"
         },
@@ -201,7 +201,7 @@ class TeachersController extends Controller
             "area":"Letras",
             "email":"",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4166289T6",
+            "lattes":"http://lattes.cnpq.br/4215662836134397",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4166289T6"
         },
@@ -210,7 +210,7 @@ class TeachersController extends Controller
             "area":"Engenharia de Software",
             "email":"rodrigocaa@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4213235T1",
+            "lattes":"http://lattes.cnpq.br/3150254272678008",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4213235T1"
         },
@@ -219,7 +219,7 @@ class TeachersController extends Controller
             "area":"Engenharia de Software",
             "email":"rgcrocha@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4240291H4",
+            "lattes":"http://lattes.cnpq.br/4654692334430085",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4240291H4"
         },
@@ -228,7 +228,7 @@ class TeachersController extends Controller
             "area":"Estatística",
             "email":"",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4290803E3",
+            "lattes":"http://lattes.cnpq.br/4252707165390630",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4290803E3"
         },
@@ -237,7 +237,7 @@ class TeachersController extends Controller
             "area":"Inteligência Computacional",
             "email":"ryanweb9@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4138777Y1",
+            "lattes":"http://lattes.cnpq.br/4195502654745344",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4138777Y1"
         },
@@ -246,7 +246,7 @@ class TeachersController extends Controller
             "area":"Computação",
             "email":"sftdom@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4716183E4",
+            "lattes":"http://lattes.cnpq.br/6313698968060384",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4716183E4"
         },
@@ -255,7 +255,7 @@ class TeachersController extends Controller
             "area":"Teoria da Computação",
             "email":"tata.burity@gmail.com",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4268683A2",
+            "lattes":"http://lattes.cnpq.br/9619297279269411",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4268683A2"
         },
@@ -264,7 +264,7 @@ class TeachersController extends Controller
             "area":"Inteligência Computacional",
             "email":"tiago.buarque@ufape.edu.br",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4274619U9",
+            "lattes":"http://lattes.cnpq.br/7150833804013500",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4274619U9"
         },
@@ -273,7 +273,7 @@ class TeachersController extends Controller
             "area":"Física",
             "email":"",
             "site":"#",
-            "lattes":"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4266656Y3",
+            "lattes":"http://lattes.cnpq.br/5318769459081213",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4266656Y3"
         }
