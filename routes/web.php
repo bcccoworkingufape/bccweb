@@ -17,7 +17,6 @@ Route::get('/',[HomeController::class,'index'])->name('home');
 Route::get('/documentos', [DocumentsController::class, 'index']);
 Route::get('/curso', function(){return view("course");})->name('course.index');
 Route::get('/ensino-remoto', [RemoteClassesController::class, 'index']);
-Route::get('/template', function(){ return view("template");});
 Route::get('/professores',[TeachersController::class,'index'])->name('teachers.index');
 Route::get('/professores/{id}',[TeachersController::class,'show'])->name('teachers.show');
 Route::get('/noticias',[NewsController::class,'index'])->name('news.index');
