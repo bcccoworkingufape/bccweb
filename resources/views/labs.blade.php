@@ -59,7 +59,7 @@
 
     <li class="labs-item">
         <header>
-            <img src="img/logo_lmts.png" alt="logo_lmts" /></a>
+            <img src="img/logo_lmts_2.png" alt="logo_lmts" /></a>
             <div class="labs-info">
                 <a  target="_blank" href="http://lmts.ufape.edu.br/"><strong>LMTS – Laboratório Multidisciplinar de Tecnologias Sociais</strong>{{--nome!--}}</a>
             </div>
