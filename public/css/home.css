@@ -216,17 +216,23 @@ a:hover{
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
+    -moz-line-clamp: 2;
+    -moz-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
     min-height: 38px;
+    min-height: 40px;
 }
 .desc{
     display: -webkit-box;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
+    -moz-line-clamp: 4;
+    -moz-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
     min-height: 76px;
+    max-height: 76px;
 }
 .newscont{
     min-height: 424px;
