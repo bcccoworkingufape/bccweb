@@ -97,7 +97,7 @@
                     <img style="margin: 10px 0 10px 0"src="{{asset('img/bcc-Google-preto-2.png')}}" alt="logo ufape" width="auto" height='80px' >
                 </div>
                 <div id="footer-center" class= "col-md-4">
-                    <p>Desenvolvido por BCC Coworking</p>
+                    <p>Desenvolvido por<img style="margin: 10px 0 10px 0"src="{{asset('img/logo-bcccoworking-verde-3.png')}}" alt="logo coworking" width="auto" height='80px' ></p>
                 </div>
                 <div class= "col-md-4" id="logo-socials">
                     <div class="row justify-content-center" style="max-width: 275px; align-items: center;">
