@@ -78,21 +78,19 @@
     </ul>
     <div class="centerTest">
     <div class="contact center">
-        <div class="course">Contato:</div>
+        <div class="course">Coordenação:</div>
         <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
+        <div class="course"></div>
+        <p style="font-weight:bold;">Igor Medeiros Vanderlei</p>
+        <a href="mailto:igor.vanderlei@ufape.edu.br">igor.vanderlei@ufape.edu.br</a>
+        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/7448139435512224" target="_blank">http://lattes.cnpq.br/7448139435512224</a>
+        <div class="course"></div>
+        <p style="font-weight:bold;">Jean Carlos de Araújo Teixeira</p>
+        <a href="mailto:jean.teixeira@ufape.edu.br">jean.teixeira@ufape.edu.br</a>
+        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/2498961747789618" target="_blank">http://lattes.cnpq.br/2498961747789618</a>
+
+
     </div>
-
-    <div class="course">Coordenador</div>
-    <p>Igor Medeiros Vanderlei</p>
-    <a href="mailto:igor.vanderlei@ufape.edu.br">igor.vanderlei@ufape.edu.br</a>
-    <p class='bold'>Lattes: </p>
-    <a class="lattes" style="font-weight:normal;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3" target="_blank">http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3</a>
-
-    <div class="course">Eventual Substituto</div>
-    <p>Jean Carlos de Araújo Teixeira</p>
-    <a href="mailto:jean.teixeira@ufape.edu.br">jean.teixeira@ufape.edu.br</a>
-    <p class="bold">Lattes:</p>
-    <a class="lattes" style="font-weight:normal;" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4441815A6" target="_blank">http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4718526Y3</a>
 
     <div class="course">NDE – Núcleo Docente Estruturante:</div>
     <p><a href="https://drive.google.com/file/d/115lvXn9tKg7vAThSN6G8FwvTK1kvNNGC/view" target="_blank"><strong>Portaria N° 12/2021 - CGCG</strong></a></p>
