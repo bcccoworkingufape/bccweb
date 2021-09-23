@@ -88,70 +88,74 @@
         <p style="font-weight:bold;">Jean Carlos de Araújo Teixeira</p>
         <a href="mailto:jean.teixeira@ufape.edu.br">jean.teixeira@ufape.edu.br</a>
         <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/2498961747789618" target="_blank">http://lattes.cnpq.br/2498961747789618</a>
+    </div>
+    <div style="margin-top:20px"class="contact center">
+        <h3 id="title">Colegiados/Comissões</h3>
+        <div class="course">NDE – Núcleo Docente Estruturante:</div>
+        <p><a href="https://drive.google.com/file/d/115lvXn9tKg7vAThSN6G8FwvTK1kvNNGC/view" target="_blank"><strong>Portaria N° 12/2021 - CGCG</strong></a></p>
+        <p>Igor Medeiros Vanderlei</a></p>
+        <p>Jean Carlos Teixeira de Araújo</p>
+        <p>Diogo de Lima Lages</p>
+        <p>Dimas Cassimiro do Nascimento Filho</p>
+        <p>Gersonilo Oliveira da Silva</p>
+        <p>Ícaro Lins Leitão da Cunha</p>
+        <p>Murilo Chavedar de Souza Araújo</p>
+        <p>Rodrigo Gusmão de Carvalho Rocha</p>
+        <p>Sergio Francisco Tavares de Oliveira Mendonça</p>
+        <p>Tiago Buarque Assunção de Carvalho</p>
+
+        <div class="course">CCD – Colegiado de Curso:</div>
+        <p><a href="https://drive.google.com/file/d/1Zf4g2XjaomorqmFiQWVkGvk_QHC_K7eX/view" target="_blank"><strong> Portaria N° 13/2021 - CGCG</a></strong></p>
+        <p>Igor Medeiros Vanderlei</p>
+        <p>Jean Carlos Teixeira de Araújo</p>
+        <p>Assuero Fonseca Ximenes</p>
+        <p>Diogo de Lima Lages</p>
+        <p>Kadna Maria Alves Camboim Vale</p>
+        <p>Maria Aparecida Amorim Sibaldo de Carvalho</p>
+        <p>Priscilla Kelly Machado Vieira Azevedo</p>
+        <p>Rodrigo Cardoso Amaral de Andrade</p>
+        <p>Rodrigo Gusmão de Carvalho Rocha</p>
+        <p>Ryan Ribeiro de Azevedo</p>
+        <p>Thais Alves Burity Rocha</p>
+        <p>Alessandro dos Santos Marques Júnior</p>
+        <p>Cleovaldo José de Lima e Silva Junior</p>
 
 
+        <div class="course center">COAA – Comissão de Orientação e Acompanhamento Acadêmico</div>
+        <p>Igor Medeiros Vanderlei</p>
+        <p>Jean Carlos Teixeira de Araújo</p>
+        <p>Gersonilo Oliveira da Silva</p>
+        <p>Murilo Chavedar de Souza Araújo</p>
+
+        <div class="course"> COE – Comissão de Estágio:</div>
+        <p>Igor Medeiros Vanderlei</p>
+        <p>Rodrigo Gusmão de Carvalho Rocha</p>
+        <p>Kadna Maria Alves Camboim Vale</p>
     </div>
 
-    <div class="course">NDE – Núcleo Docente Estruturante:</div>
-    <p><a href="https://drive.google.com/file/d/115lvXn9tKg7vAThSN6G8FwvTK1kvNNGC/view" target="_blank"><strong>Portaria N° 12/2021 - CGCG</strong></a></p>
-    <p>Igor Medeiros Vanderlei</a></p>
-    <p>Jean Carlos Teixeira de Araújo</p>
-    <p>Diogo de Lima Lages</p>
-    <p>Dimas Cassimiro do Nascimento Filho</p>
-    <p>Gersonilo Oliveira da Silva</p>
-    <p>Ícaro Lins Leitão da Cunha</p>
-    <p>Murilo Chavedar de Souza Araújo</p>
-    <p>Rodrigo Gusmão de Carvalho Rocha</p>
-    <p>Sergio Francisco Tavares de Oliveira Mendonça</p>
-    <p>Tiago Buarque Assunção de Carvalho</p>
+    <div style="margin-top:20px" class="contact center">
 
-    <div class="course">CCD – Colegiado de Curso:</div>
-    <p><a href="https://drive.google.com/file/d/1Zf4g2XjaomorqmFiQWVkGvk_QHC_K7eX/view" target="_blank"><strong> Portaria N° 13/2021 - CGCG</a></strong></p>
-    <p>Igor Medeiros Vanderlei</p>
-    <p>Jean Carlos Teixeira de Araújo</p>
-    <p>Assuero Fonseca Ximenes</p>
-    <p>Diogo de Lima Lages</p>
-    <p>Kadna Maria Alves Camboim Vale</p>
-    <p>Maria Aparecida Amorim Sibaldo de Carvalho</p>
-    <p>Priscilla Kelly Machado Vieira Azevedo</p>
-    <p>Rodrigo Cardoso Amaral de Andrade</p>
-    <p>Rodrigo Gusmão de Carvalho Rocha</p>
-    <p>Ryan Ribeiro de Azevedo</p>
-    <p>Thais Alves Burity Rocha</p>
-    <p>Alessandro dos Santos Marques Júnior</p>
-    <p>Cleovaldo José de Lima e Silva Junior</p>
+        <div class="course">Outras Informações:</div>
+            <div class="info center">
+            <p class="bold">Modalidade:</p>
+            <span style="font-weight:normal;">Bacharelado</span>
+            <p class="bold">Título do Egresso: </p>
+            <span style="font-weight:normal;">Bacharel em Ciência da Computação</span>
+            <p class="bold">Área do Conhecimento:</p>
+            <span style="font-weight:normal;">Ciências Exatas e da Terra</span>
+            <p class="bold">Modalidade de Educação: </p>
+            <span style="font-weight:normal;">Presencial (ensino a distância restrito ao percentual imposto por legislação em vigor)</span>
+            <p class="bold">Número de vagas: </p>
+            <span style="font-weight:normal;">80 (oitenta) vagas anuais, sendo 40 (quarenta) vagas semestrais</span>
+            <p class="bold">Carga horária: </p>
+            <span style="font-weight:normal;">3.200 (três mil e duzentas) horas</span>
+            <p class="bold">Horário Funcionamento: </p>
+            <span style="font-weight:normal;">Predominantemente Noturno</span>
+            <p class="bold">Local de Oferta: </p>
+            <span style="font-weight:normal;">Universidade Federal do Agreste de Pernambuco</span>
+            </div>
+        </div>
 
-
-    <div class="course center">COAA – Comissão de Orientação e Acompanhamento Acadêmico</div>
-    <p>Igor Medeiros Vanderlei</p>
-    <p>Jean Carlos Teixeira de Araújo</p>
-    <p>Gersonilo Oliveira da Silva</p>
-    <p>Murilo Chavedar de Souza Araújo</p>
-
-    <div class="course"> COE – Comissão de Estágio:</div>
-    <p>Igor Medeiros Vanderlei</p>
-    <p>Rodrigo Gusmão de Carvalho Rocha</p>
-    <p>Kadna Maria Alves Camboim Vale</p>
-
-    <div class="course">Outras Informações:</div>
-    <div class="info center">
-    <p class="bold">Modalidade:</p>
-    <span style="font-weight:normal;">Bacharelado</span>
-    <p class="bold">Título do Egresso: </p>
-    <span style="font-weight:normal;">Bacharel em Ciência da Computação</span>
-    <p class="bold">Área do Conhecimento:</p>
-    <span style="font-weight:normal;">Ciências Exatas e da Terra</span>
-    <p class="bold">Modalidade de Educação: </p>
-    <span style="font-weight:normal;">Presencial (ensino a distância restrito ao percentual imposto por legislação em vigor)</span>
-    <p class="bold">Número de vagas: </p>
-    <span style="font-weight:normal;">80 (oitenta) vagas anuais, sendo 40 (quarenta) vagas semestrais</span>
-    <p class="bold">Carga horária: </p>
-    <span style="font-weight:normal;">3.200 (três mil e duzentas) horas</span>
-    <p class="bold">Horário Funcionamento: </p>
-    <span style="font-weight:normal;">Predominantemente Noturno</span>
-    <p class="bold">Local de Oferta: </p>
-    <span style="font-weight:normal;">Universidade Federal do Agreste de Pernambuco</span>
-    </div>
     </div>
     <div id="map" style="height:500px; width:100%;margin-top: 10px;"></div>
     <script
