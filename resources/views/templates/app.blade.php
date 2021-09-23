@@ -94,7 +94,7 @@
         <footer>
             <div class="row footer-container justify-content-center">
                 <div class= "col-md-4" id="logo-ufape">
-                    <img style="margin: 10px 0 10px 0"src="{{asset('img/bcc-Google-preto-2.png')}}" alt="logo ufape" width="auto" height='80px' >
+                    <img style="margin: 10px 0 10px 0"src="{{asset('img/logo-bcc-ufape.png')}}" alt="logo ufape" width="auto" height='80px' >
                 </div>
                 <div id="footer-center" class= "col-md-4">
                     <img style="margin: 10px 0 10px 0"src="{{asset('img/Tag_BCC.png')}}" alt="logo coworking" width="auto" height='80px' >
