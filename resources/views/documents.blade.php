@@ -7,6 +7,9 @@
 <div class="documents">DOCUMENTOS</div>
     <div class="form-row documents-container">
         <div class="documents-container">
+            <a style="width:230px; text-decoration: underline" href="http://ufape.edu.br/escolaridade" target="_blank">http://ufape.edu.br/escolaridade</a>
+        </div>
+        <div class="documents-container">
             <strong>Informações Gerais do Curso</strong>
             <ul>
                 <li>Curso: Ciência da Computação</li>
@@ -28,10 +31,10 @@
                     <li><a href="https://drive.google.com/file/d/13Pf_fm4AYWIM9wHvgd9uhl5MRJXBuMUE/view" target="_blank">Estágio Supervisionado Obrigatório (ESO)</li>
                     <li><a href="https://drive.google.com/file/d/1-tvDLr1QlhDOcBd3nODr1DAPuJItPlks/view" target="_blank">Trabalho de Conclusão do Curso (TCC)</a></li>
                </ul>
-                <li><a href="https://drive.google.com/file/d/1ar9GSqJOTYUOHIMmEoDbPg_syhIbB53k/view" target="_blank">PPP do Curso</a></li>
+                <li><a href="https://drive.google.com/file/d/1ar9GSqJOTYUOHIMmEoDbPg_syhIbB53k/view" target="_blank">Projeto Pedagógico do Curso (PPC)</a></li>
                 <li><a href="https://drive.google.com/file/d/1A9ICUxQp4Y2OZ0C4kDVt6L9BGF3AeN-V/view" target="_blank">Matriz Curricular</a></li>
                 <li><a href="http://ufape.edu.br/sites/temaunidades.ufrpe.br/files/comissoes/Bcc_2020_2.pdf" target="_blank">Horário do Semestre</a></li>
-                <li>Manual do Discente</li>
+                <!-- <li>Manual do Discente</li> -->
             </ul>
 
         </div>

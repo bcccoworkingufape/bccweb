@@ -1,8 +1,6 @@
 li.news-item{
-    background: #e5e4e5;
-    box-shadow: 0 0 14px 0 rgba(0,8,0,0.02);
+    box-shadow: 0 0 4px 0 #aaa;
     border-radius: 12px;
-    /* padding: 10px; */
 }
 
 li.news-item{
@@ -56,7 +54,7 @@ li.news-item a:hover, li.news-item strong:hover{
 .news-list{
     display: grid;
     grid-template-columns: 1fr;
-    gap: 10px;
+    gap: 25px;
     list-style: none;
     padding:0;
     margin-top: 16px;

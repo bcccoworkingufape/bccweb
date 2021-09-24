@@ -24,7 +24,7 @@
         <!-- menu principal -->
 
         <!-- menu secundario -->
-        <div class="container">
+        <div style="display:flex;justify-content: center;"class="container">
             <nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #e5e4e5; padding:10px;border-radius: 9px" >
                 <div class="container menu">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar10">
@@ -33,31 +33,82 @@
                     <div class="navbar-collapse collapse" id="navbar10">
                         <ul class="navbar-nav nav-fill w-100">
                             <li class="nav-item">
+                                @if(Route::is('news.index'))
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="{{route('news.index')}}">Notícias</a>
+                                @else
                                 <a class="nav-link" href="{{route('news.index')}}">Notícias</a>
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('course.index'))
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="{{route('course.index')}}">O Curso</a>
+
+                                @else
                                 <a class="nav-link" href="{{route('course.index')}}">O Curso</a>
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('teachers.index'))
+                                 <a style="font-weight:bold; color:black !important;"class="nav-link" href="{{route('teachers.index')}}">Professores</a>
+
+                                @else
                                 <a class="nav-link" href="{{route('teachers.index')}}">Professores</a>
+
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('projects.index'))
+                                <a style="font-weight:bold; color:black !important;" class="nav-link" href="{{route('projects.index')}}">Projetos</a>
+
+                                @else
                                 <a class="nav-link" href="{{route('projects.index')}}">Projetos</a>
+
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('remote'))
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="/ensino-remoto" style="color: #FF2323 !important"><strong> Ensino Remoto</strong></a>
+
+                                @else
                                 <a class="nav-link" href="/ensino-remoto" style="color: #FF2323 !important"><strong> Ensino Remoto</strong></a>
+
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('documents'))
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="/documentos">Documentos</a>
+
+                                @else
                                 <a class="nav-link" href="/documentos">Documentos</a>
+
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('media.index'))
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="{{route('media.index')}}">Mídia</a>
+
+                                @else
                                 <a class="nav-link" href="{{route('media.index')}}">Mídia</a>
+
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('researchGroups.index'))
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="/grupos-de-pesquisa">Grupos de Pesquisa</a>
+
+                                @else
                                 <a class="nav-link" href="/grupos-de-pesquisa">Grupos de Pesquisa</a>
+
+                                @endif
                             </li>
                             <li class="nav-item">
+                                @if(Route::is('labs.index'))
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="{{route('labs.index')}}">Laboratórios</a>
+
+                                @else
                                 <a class="nav-link" href="{{route('labs.index')}}">Laboratórios</a>
+
+                                @endif
                             </li>
                         </ul>
                     </div>
