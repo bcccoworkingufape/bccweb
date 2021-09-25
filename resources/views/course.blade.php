@@ -89,7 +89,7 @@
         <a href="mailto:jean.teixeira@ufape.edu.br">jean.teixeira@ufape.edu.br</a>
         <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/2498961747789618" target="_blank">http://lattes.cnpq.br/2498961747789618</a>
     </div>
-    <div style="margin-top:20px"class="contact center">
+    <!-- <div style="margin-top:20px"class="contact center">
         <h3 id="title">Colegiados/Comissões</h3>
         <div class="course">NDE – Núcleo Docente Estruturante:</div>
         <p><a href="https://drive.google.com/file/d/115lvXn9tKg7vAThSN6G8FwvTK1kvNNGC/view" target="_blank"><strong>Portaria N° 12/2021 - CGCG</strong></a></p>
@@ -131,7 +131,7 @@
         <p>Igor Medeiros Vanderlei</p>
         <p>Rodrigo Gusmão de Carvalho Rocha</p>
         <p>Kadna Maria Alves Camboim Vale</p>
-    </div>
+    </div> -->
 
     <div style="margin-top:20px" class="contact center">
 
