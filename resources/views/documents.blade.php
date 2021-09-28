@@ -34,6 +34,8 @@
                 <li><a href="https://drive.google.com/file/d/1ar9GSqJOTYUOHIMmEoDbPg_syhIbB53k/view" target="_blank">Projeto Pedagógico do Curso (PPC)</a></li>
                 <li><a href="https://drive.google.com/file/d/1A9ICUxQp4Y2OZ0C4kDVt6L9BGF3AeN-V/view" target="_blank">Matriz Curricular</a></li>
                 <li><a href="http://ufape.edu.br/sites/temaunidades.ufrpe.br/files/comissoes/Bcc_2020_2.pdf" target="_blank">Horário do Semestre</a></li>
+                <li><a href="http://ufape.edu.br/sites/temaunidades.ufrpe.br/files/comissoes/Resolu%C3%A7%C3%A3o%20CONSU_UFAPE%20015-2020.pdf" target="_blank">Nova Resolução de Atividades Complementares</a></li>
+
                 <!-- <li>Manual do Discente</li> -->
             </ul>
 
