@@ -3,6 +3,8 @@ li.labs-item{
     box-shadow: 0 0 14px 0 rgba(0,8,0,0.02);
     border-radius: 12px;
     padding: 10px;
+    width: 546px;
+    height: 160px;
 }
 
 li.labs-item header{
@@ -10,7 +12,7 @@ li.labs-item header{
     flex-direction: row;
     align-items: center;
 }
-li.labs-item header img{
+li.labs-item img{
     width: 74px;
     height: 74px;
     border-radius: 50%;
@@ -58,4 +60,21 @@ li.labs-item a:hover, li.labs-item header strong:hover{
     display: block;
     font-size:16px;
     color: #333;
+}
+
+.course-labs{
+    margin-bottom: 13px;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top:13px;
+
+}
+
+h2#title{
+    font-weight: bold;
+    height: 40px;
+}
+
+.center{
+    text-align: center;
 }
