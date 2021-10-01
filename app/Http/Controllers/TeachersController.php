@@ -252,7 +252,7 @@ class TeachersController extends Controller
         },
         "ThaísAlvesBurityRocha": {
             "name":"Thaís Alves Burity Rocha",
-            "area":"Teoria da Computação",
+            "area":"Engenharia de Software",
             "email":"tata.burity@gmail.com",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/9619297279269411",
