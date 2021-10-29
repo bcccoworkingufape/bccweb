@@ -268,6 +268,15 @@ class TeachersController extends Controller
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4274619U9"
         },
+        "WellingtonMarinhoDeLira": {
+            "name":"Wellington Romero Serafim Freire",
+            "area":"Letras",
+            "email":"",
+            "site":"#",
+            "lattes":"http://lattes.cnpq.br/7286815404131000",
+            "info":"",
+            "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4236395D8"
+        },
         "WellingtonRomeroSerafimFreire": {
             "name":"Wellington Romero Serafim Freire",
             "area":"Física",
@@ -277,6 +286,7 @@ class TeachersController extends Controller
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4266656Y3"
         }
+        
     }';
     public function index(){
         $data = json_decode($this->data);
