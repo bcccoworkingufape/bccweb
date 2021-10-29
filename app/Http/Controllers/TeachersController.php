@@ -269,7 +269,7 @@ class TeachersController extends Controller
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4274619U9"
         },
         "WellingtonMarinhoDeLira": {
-            "name":"Wellington Romero Serafim Freire",
+            "name":"Wellington Marinho de Lira",
             "area":"Letras",
             "email":"",
             "site":"#",
