@@ -104,7 +104,7 @@ class TeachersController extends Controller
             "site":"#",
             "lattes":"http://lattes.cnpq.br/6577405976489740",
             "info":"",
-            "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4735709U4"
+            "photo":"http://abel.mat.ufpb.br/~jmbo/pipa/icaro.jpg"
         },
         "IgorMedeirosVanderlei": {
             "name":"Igor Medeiros Vanderlei",
