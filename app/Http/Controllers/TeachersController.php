@@ -185,7 +185,7 @@ class TeachersController extends Controller
             "site":"#",
             "lattes":"http://lattes.cnpq.br/1993682904308468",
             "info":"",
-            "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4735877J3"
+            "photo":"https://www.opemat.com.br/equipe/6-murilo.jpeg"
         },
         "PriscillaKellyMachadoVieira": {
             "name":"Priscilla Kelly Machado Vieira",

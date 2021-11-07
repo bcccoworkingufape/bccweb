@@ -81,13 +81,13 @@
         <div class="course">Coordenação:</div>
         <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
         <div class="course"></div>
-        <p style="font-weight:bold;">Igor Medeiros Vanderlei</p>
-        <a href="mailto:igor.vanderlei@ufape.edu.br">igor.vanderlei@ufape.edu.br</a>
-        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/7448139435512224" target="_blank">http://lattes.cnpq.br/7448139435512224</a>
+        <p style="font-weight:bold;">Kádna Maria Alves Camboim Vale</p>
+        <a href="mailto:kadna.camboim@ufape.edu.br">kadna.camboim@ufape.edu.br</a>
+        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/2817387497612302" target="_blank">http://lattes.cnpq.br/2817387497612302</a>
         <div class="course"></div>
-        <p style="font-weight:bold;">Jean Carlos de Araújo Teixeira</p>
-        <a href="mailto:jean.teixeira@ufape.edu.br">jean.teixeira@ufape.edu.br</a>
-        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/2498961747789618" target="_blank">http://lattes.cnpq.br/2498961747789618</a>
+        <p style="font-weight:bold;">Thaís Alves Burity Rocha</p>
+        <a href="mailto:thais.burity@ufape.edu.br">thais.burity@ufape.edu.br</a>
+        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/9619297279269411" target="_blank">http://lattes.cnpq.br/9619297279269411</a>
     </div>
     <!-- <div style="margin-top:20px"class="contact center">
         <h3 id="title">Colegiados/Comissões</h3>
