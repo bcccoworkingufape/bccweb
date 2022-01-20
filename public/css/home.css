@@ -193,6 +193,9 @@ footer{
     margin-right: 0;
 }
 
+#coworkingimg:hover{
+    cursor: pointer;
+}
 #logo-socials{
     color: white;
     margin-top: 1.8rem;

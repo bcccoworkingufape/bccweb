@@ -44,14 +44,14 @@
     <div class="form-group">
         <div style="margin-bottom: 13px;font-size: 24px; font-weight: 700;">EVENTOS</div>
     </div>
-    <div class="row">
+    <div class="row" style="height: 93%;">
 
             <div class="col-md-12" style="margin-bottom: 10px;">
                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                     <div class="event-number">1º</div>
                     <div class="form-group" style="margin-top: 10px;">
-                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Aula inaugural e Início do semestre letivo de 2020.2</div>
-                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">30/08/2021</div>
+                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Início Semestre Letivo e Aula Magna</div>
+                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">14/02/2022 e 24/02/2022</div>
                     </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@
                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                     <div class="event-number">2º</div>
                     <div class="form-group" style="margin-top: 10px;">
-                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Reajuste de matrícula.</div>
-                        <div class="textDiv"style="font-size: 12px;width: 95%;color: #707070;">13-15/09/2021 - Deverá ser impresso ou anotado o protocolo do requerimento de matrícula, emitido pelo sig@/sigaa, para eventual comprovação 18 Último dia para cadastramento do seguro de estágio a ser realizado em outubro (www.preg.ufrpe.br/cge) </div>
+                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Matrícula dos Alunos Regulares</div>
+                        <div class="textDiv"style="font-size: 12px;width: 95%;color: #707070;">26-28/01/2022</div>
                     </div>
                 </div>
             </div>
@@ -68,8 +68,8 @@
                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                     <div class="event-number">3º</div>
                     <div class="form-group" style="margin-top: 10px;">
-                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Colação de Grau Unificada 2020.1</div>
-                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">29/09/2021</div>
+                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Reajuste de Matrícula</div>
+                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">21-23/02/2022</div>
                     </div>
                 </div>
             </div>
@@ -77,8 +77,17 @@
                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
                     <div class="event-number">4º</div>
                     <div class="form-group" style="margin-top: 10px;">
-                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Cancelamento de disciplinas com ônus e trancamento de matrícula via sig@/sigaa</div>
-                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">04-08/10/2021</div>
+                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Evento IntegraBCC</div>
+                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">14-18/02/2022</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" style="margin-bottom: 10px;">
+                <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
+                    <div class="event-number">5º</div>
+                    <div class="form-group" style="margin-top: 10px;">
+                        <div class="textDiv" style="font-weight: 600; color: #1492E6;">Colação de Grau 2020.2</div>
+                        <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">31/03/2022</div>
                     </div>
                 </div>
             </div>
@@ -96,8 +105,8 @@
                     <img class="card-img-top" src="img/logo_bcccoworking.png" alt="Card image cap" style=" border-radius: 12px; width: 87px;">
                 </div>
                 <div class="form-group" style="margin-top: 15px;">
-                    <div style="font-size: 14px;color: black;font-weight: 600; margin-top: -2px;"><a href="http://app.uag.ufrpe.br/bcccoworking/home"> BCC Coworking</a></div>
-                    <div style="font-size: 12px;width: 95%;height: 100%; color: #707070;"><a href="http://app.uag.ufrpe.br/bcccoworking/home"> Laboratório de Pesquisa, Desenvolvimento & Inovação</a></div>
+                    <div style="font-size: 14px;color: black;font-weight: 600; margin-top: -2px;"><a href="http://bcccoworking.ufape.edu.br/"> BCC Coworking</a></div>
+                    <div style="font-size: 12px;width: 95%;height: 100%; color: #707070;"><a href="http://bcccoworking.ufape.edu.br/"> Laboratório de Pesquisa, Desenvolvimento & Inovação</a></div>
                 </div>
             </div>
         </div>

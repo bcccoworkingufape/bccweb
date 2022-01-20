@@ -148,7 +148,7 @@
                     <img style="margin: 10px 0 10px 0"src="{{asset('img/logo-bcc-ufape.png')}}" alt="logo ufape" width="auto" height='80px' >
                 </div>
                 <div id="footer-center" class= "col-md-4">
-                    <img style="margin: 10px 0 10px 0"src="{{asset('img/Tag_BCC.png')}}" alt="logo coworking" width="auto" height='80px' >
+                    <a href="http://bcccoworking.ufape.edu.br" target="_blank"><img id="coworkingimg"style="margin: 10px 0 10px 0"src="{{asset('img/Tag_BCC.png')}}" alt="logo coworking" width="auto" height='80px' ></a>
                 </div>
                 <div class= "col-md-4" id="logo-socials">
                     <div class="row justify-content-center" style="max-width: 275px; align-items: center;">

@@ -71,9 +71,9 @@
 
     <li class="labs-item">
         <header>
-            <a  target="_blank" href="http://app.uag.ufrpe.br/bcccoworking/"> <img src="img/logo-bcccoworking-menor.jpeg" alt="logo_bcccoworking" /></a>
+            <a  target="_blank" href="http://bcccoworking.ufape.edu.br/"> <img src="img/logo-bcccoworking-menor.jpeg" alt="logo_bcccoworking" /></a>
             <div class="labs-info">
-                <a  target="_blank" href="http://app.uag.ufrpe.br/bcccoworking/home"><strong>BCC Coworking</strong>{{--nome!--}}</a>
+                <a  target="_blank" href="http://bcccoworking.ufape.edu.br/"><strong>BCC Coworking</strong>{{--nome!--}}</a>
             </div>
         </header>
         <p>
