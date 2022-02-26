@@ -11,12 +11,12 @@
                         <div class="style_card_destaque_principal">
                             <div class="" style="margin: 5px;position:relative;">
                                 <div class="newscont" style="background-color: #F6F6F6;border-radius: 12px; padding-bottom: 25px;position:relative;">
-                                <a href="{{route('news.show',['id'=>$news->title])}}"><img style="max-height:215px;object-fit: fill;" class="card-img-top" src="{{$news->photo}}" alt="Card image cap" style=" border-top-left-radius: 12px;border-top-right-radius: 12px;"></a>    
+                                <a href="{{route('news.show',['id'=>$news->title])}}"><img style="max-height:215px;object-fit: fill;" class="card-img-top" src="{{$news->photo}}" alt="Card image cap" style=" border-top-left-radius: 12px;border-top-right-radius: 12px;"></a>
                                 <div class="container" style="padding-top: 10px;;">
                                         <div class="row" >
                                             <div class="col-md-12" >
                                                 <div class="row">
-                                                    <div class="title col-md-12" style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; font-weight: 500; line-height: 19px;color:black; margin-top: 10px; margin-bottom: 10px;">
+                                                    <div class="title col-md-12" style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; font-weight: 500; line-height: 20px;color:black; margin-top: 10px; margin-bottom: 10px;">
                                                     <a  style="color:black;" href="{{route('news.show',['id'=>$news->title])}}">{{$news->title}}</a>
                                                     </div>
                                                     <div class="desc col-md-12" style="font-size: 15px;line-height: 19px;color: #707070; margin-bottom: 10px;">
