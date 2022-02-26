@@ -44,7 +44,7 @@
     <div class="form-group">
         <div style="margin-bottom: 13px;font-size: 24px; font-weight: 700;">EVENTOS</div>
     </div>
-    <div class="row" style="height: 93%;">
+    <div class="row" style="height: 70vh;">
 
             <div class="col-md-12" style="margin-bottom: 10px;">
                 <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
