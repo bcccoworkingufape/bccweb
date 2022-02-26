@@ -10,7 +10,7 @@ class TeachersController extends Controller
         "AlixandreThiagoFerreiraSantana": {
             "name":"Alixandre Thiago Ferreira Santana",
             "area":"Tecnologia da Informação",
-            "email":"prof.alixandresantana@gmail.com",
+            "email":"alixandre.santana@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/3283294973534606",
             "info":"",
@@ -19,7 +19,7 @@ class TeachersController extends Controller
         "ÁlvaroAlvaresSobrinho":{
             "name": "Álvaro Alvares Sobrinho",
             "area":"Algoritmos e Otimização",
-            "email":"alvaro.alvares86@gmail.com",
+            "email":"alvaro.alvares@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/5640399839698012",
             "info":"",
@@ -28,7 +28,7 @@ class TeachersController extends Controller
         "AssueroFonsecaXimenes":{
             "name": "Assuero Fonseca Ximenes",
             "area":"Tecnologia da Informação",
-            "email":"assuero.ximenes@gmail.com",
+            "email":"assuero.ximenes@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/0060135791012696",
             "info":"",
@@ -37,7 +37,7 @@ class TeachersController extends Controller
         "DalitondaSilva": {
             "name":"Daliton da Silva",
             "area":"Computação Gráfica",
-            "email":"daliton@gmail.com",
+            "email":"daliton.silva@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/6513070331492998",
             "info":"",
@@ -46,7 +46,7 @@ class TeachersController extends Controller
         "DimasCassimirodoNascimentoFilho": {
             "name":"Dimas Cassimiro do Nascimento Filho",
             "area":"Banco de Dados",
-            "email":"dimascnf@gmail.com",
+            "email":"alixandre.santana@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/3151296501932443",
             "info":"",
@@ -64,7 +64,7 @@ class TeachersController extends Controller
         "DiogodeLimaLages": {
             "name":"Diogo de Lima Lages",
             "area":"Engenharia da Computação",
-            "email":"diolages@gmail.com",
+            "email":"diogo.lages@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/8604204879805070",
             "info":"",
@@ -82,7 +82,7 @@ class TeachersController extends Controller
         "GersoniloOliveiradaSilva": {
             "name":"Gersonilo Oliveira da Silva",
             "area":"Matemática",
-            "email":"",
+            "email":"gersonilo.oliveira@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/8350170604040233",
             "info":"",
@@ -91,7 +91,7 @@ class TeachersController extends Controller
         "HelderFernandodeAraujoOliveira": {
             "name":"Helder Fernando de Araujo Oliveira",
             "area":"Engenharia da Computação",
-            "email":"helderfern@gmail.com",
+            "email":"helder-fernando.oliveira@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/0097916965255705",
             "info":"",
@@ -100,7 +100,7 @@ class TeachersController extends Controller
         "ÍcaroLinsLeitãodaCunha": {
             "name":"Ícaro Lins Leitão da Cunha",
             "area":"Computação Gráfica",
-            "email":"illdacunha@gmail.com",
+            "email":"icaro.cunha@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/6577405976489740",
             "info":"",
@@ -109,7 +109,7 @@ class TeachersController extends Controller
         "IgorMedeirosVanderlei": {
             "name":"Igor Medeiros Vanderlei",
             "area":"Teoria da Computação",
-            "email":"igor.vanderlei@gmail.com",
+            "email":"igor.vanderlei@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/7448139435512224",
             "info":"",
@@ -127,7 +127,7 @@ class TeachersController extends Controller
         "KádnaMariaAlvesCamboimVale": {
             "name":"Kádna Maria Alves Camboim Vale",
             "area":"Redes e Sistemas Distribuídos",
-            "email":"kadnacamboim@gmail.com",
+            "email":"kadna.camboim@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/2817387497612302",
             "info":"",
@@ -136,7 +136,7 @@ class TeachersController extends Controller
         "LuisFilipeAlvesPereira": {
             "name":"Luis Filipe Alves Pereira",
             "area":"Inteligência Computacional",
-            "email":"",
+            "email":"luis-filipe.pereira@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/7320714889983490",
             "info":"",
@@ -145,7 +145,7 @@ class TeachersController extends Controller
         "MarciusPetrúciodeA.Cavalcante": {
             "name":"Marcius Petrúcio de A. Cavalcante",
             "area":"Matemática",
-            "email":"marcius.petrucio@ufrpe.br",
+            "email":"marcius.petrucio@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/9419403034644726",
             "info":"",
@@ -154,7 +154,7 @@ class TeachersController extends Controller
         "MariaAparecidaAmorimSibaldo": {
             "name":"Maria Aparecida Amorim Sibaldo",
             "area":"Teoria da Computação",
-            "email":"maasibaldo@gmail.com",
+            "email":"maria.sibaldo@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/6462709058060681",
             "info":"",
@@ -190,7 +190,7 @@ class TeachersController extends Controller
         "PriscillaKellyMachadoVieira": {
             "name":"Priscilla Kelly Machado Vieira",
             "area":"Banco de Dados",
-            "email":"priscillakmv@gmail.com",
+            "email":"priscilla.azevedo@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/6410600495701632",
             "info":"",
@@ -199,7 +199,7 @@ class TeachersController extends Controller
         "RobsonSantosdeOliveira": {
             "name":"Robson Santos de Oliveira",
             "area":"Letras",
-            "email":"",
+            "email":"robson.santos@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/4215662836134397",
             "info":"",
@@ -208,7 +208,7 @@ class TeachersController extends Controller
         "RodrigoCardosoAmaraldeAndrade": {
             "name":"Rodrigo Cardoso Amaral de Andrade",
             "area":"Engenharia de Software",
-            "email":"rodrigocaa@gmail.com",
+            "email":"rodrigo.andrade@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/3150254272678008",
             "info":"",
@@ -217,7 +217,7 @@ class TeachersController extends Controller
         "RodrigoGusmãodeCarvalhoRocha": {
             "name":"Rodrigo Gusmão de Carvalho Rocha",
             "area":"Engenharia de Software",
-            "email":"rgcrocha@gmail.com",
+            "email":"rodrigo.rocha@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/4654692334430085",
             "info":"",
@@ -226,7 +226,7 @@ class TeachersController extends Controller
         "RomeroLuizMendonçaSalesFilho": {
             "name":"Romero Luiz Mendonça Sales Filho",
             "area":"Estatística",
-            "email":"",
+            "email":"romero.filho@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/4252707165390630",
             "info":"",
@@ -235,7 +235,7 @@ class TeachersController extends Controller
         "RyanRibeirodeAzevêdo": {
             "name":"Ryan Ribeiro de Azevêdo",
             "area":"Inteligência Computacional",
-            "email":"ryanweb9@gmail.com",
+            "email":"ryan.azevedo@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/4195502654745344",
             "info":"",
@@ -244,7 +244,7 @@ class TeachersController extends Controller
         "SérgioFranciscoT.deO.Mendonça": {
             "name":"Sérgio Francisco T. de O. Mendonça",
             "area":"Computação",
-            "email":"sftdom@gmail.com",
+            "email":"sergio.mendonca@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/6313698968060384",
             "info":"",
@@ -253,7 +253,7 @@ class TeachersController extends Controller
         "ThaísAlvesBurityRocha": {
             "name":"Thaís Alves Burity Rocha",
             "area":"Engenharia de Software",
-            "email":"tata.burity@gmail.com",
+            "email":"thais.burity@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/9619297279269411",
             "info":"",
@@ -271,7 +271,7 @@ class TeachersController extends Controller
         "WellingtonMarinhoDeLira": {
             "name":"Wellington Marinho de Lira",
             "area":"Letras",
-            "email":"",
+            "email":"wellington.lira@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/7286815404131000",
             "info":"",
@@ -280,13 +280,13 @@ class TeachersController extends Controller
         "WellingtonRomeroSerafimFreire": {
             "name":"Wellington Romero Serafim Freire",
             "area":"Física",
-            "email":"",
+            "email":"wellington.serafim@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/5318769459081213",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4266656Y3"
         }
-        
+
     }';
     public function index(){
         $data = json_decode($this->data);

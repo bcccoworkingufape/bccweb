@@ -10,8 +10,8 @@ class NewsController extends Controller
     private $data = '{
         "Horário BCC 2021.1":{
             "title": "Horário BCC 2021.1",
-            "description": "<p><img width=\"1280px\"src=\"https://drive.google.com/uc?export=view&id=1QDBWMOpTDMzw39l_e4x0Kt9sVdFBkNW0\"</p>",
-            "photo":"https://drive.google.com/uc?export=view&id=1QDBWMOpTDMzw39l_e4x0Kt9sVdFBkNW0",
+            "description": "<p><img width=\"1280px\"src=\"https://drive.google.com/uc?export=view&id=1XmHU4XjIgbqDWcI4oZb_RcZwof8LH1cC\"</p>",
+            "photo":"https://drive.google.com/uc?export=view&id=1XmHU4XjIgbqDWcI4oZb_RcZwof8LH1cC",
             "date": "20/01/2022 - 00:00"
         },
         "Especialização Desenvolvimento de Software para WEB e Dispositivos Móveis - Pós-Graduação":{
