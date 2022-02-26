@@ -7,7 +7,7 @@
 
                     <div class="form-row">
                         @foreach($data as $news)
-                        @if($loop->index < 2)
+                        @if($loop->index < 4)
                         <div class="style_card_destaque_principal">
                             <div class="" style="margin: 5px;position:relative;">
                                 <div class="newscont" style="background-color: #F6F6F6;border-radius: 12px; padding-bottom: 25px;position:relative;">

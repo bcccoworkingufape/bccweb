@@ -12,12 +12,14 @@
             <img src="{{$teacher->photo}}" alt="{{$teacher->name}}" />
             <div class="teacher-info">
                 <strong>{{$teacher->name}}</strong>
-                <span>{{$teacher->area}}</span>{{--área!--}}
+                <span>{{$teacher->area}}</span>
+
             </div>
         </header>
-        <p>
+        <!-- <p>
             {{$teacher->info}}
-        </p>
+        </p> -->
+        <p>{{$teacher->email}}</p><br>
         <a id="lattes" target="tab" href="{{$teacher->lattes}}">{{$teacher->lattes}}</a>
     </li>
     @endforeach

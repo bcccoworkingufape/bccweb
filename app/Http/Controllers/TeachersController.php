@@ -46,7 +46,7 @@ class TeachersController extends Controller
         "DimasCassimirodoNascimentoFilho": {
             "name":"Dimas Cassimiro do Nascimento Filho",
             "area":"Banco de Dados",
-            "email":"alixandre.santana@ufape.edu.br",
+            "email":"dimas.cassimiro@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/3151296501932443",
             "info":"",
@@ -96,15 +96,6 @@ class TeachersController extends Controller
             "lattes":"http://lattes.cnpq.br/0097916965255705",
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4251666D6"
-        },
-        "Herlan Tenorio": {
-            "name":"Herlan Tenorio",
-            "area":"",
-            "email":"",
-            "site":"#",
-            "lattes":"http://lattes.cnpq.br/",
-            "info":"",
-            "photo":""
         },
         "ÍcaroLinsLeitãodaCunha": {
             "name":"Ícaro Lins Leitão da Cunha",
