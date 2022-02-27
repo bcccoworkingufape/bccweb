@@ -163,7 +163,7 @@ class TeachersController extends Controller
         "MarielJoséPimenteldeAndrade": {
             "name":"Mariel José Pimentel de Andrade",
             "area":"Física",
-            "email":"",
+            "email":"mariel.andrade@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/3111765717865989",
             "info":"",
@@ -172,7 +172,7 @@ class TeachersController extends Controller
         "MárioSansukeMaranhãoWatanabe": {
             "name":"Mário Sansuke Maranhão Watanabe",
             "area":"Matemática",
-            "email":"sansukew@gmail.com",
+            "email":"mario.sansuke@ufape.edu.br",
             "site":"#",
             "lattes":"http://lattes.cnpq.br/4598453019812221",
             "info":"",
