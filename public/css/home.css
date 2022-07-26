@@ -34,7 +34,6 @@
     }
     .container_labs{
         position: relative;
-        right: calc(-640px);
         width: 310px;
         padding:5px;
     }
