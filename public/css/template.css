@@ -22,7 +22,6 @@
     margin-left: 10px;
 }
 .container_labs{
-    right: calc(-760px);
     position: relative;
     width: 365px;
     padding:5px;
@@ -39,7 +38,6 @@
     }
     .container_labs{
         position: relative;
-        right: calc(-640px);
         width: 310px;
         padding:5px;
     }

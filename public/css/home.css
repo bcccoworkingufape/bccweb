@@ -21,12 +21,7 @@
     padding:5px;
     margin-left: 10px;
 }
-.container_labs{
-    right: calc(-760px);
-    position: relative;
-    width: 365px;
-    padding:5px;
-}
+
 @media screen and (max-width: 1199px) and (min-width: 992px){
     .container_destaque{
         width: 630px;

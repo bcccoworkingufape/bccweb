@@ -41,7 +41,7 @@
 </div>
 @endsection
 @section('events')
-<div class="container_importante">
+<div class="container_importante" style="display:flex; flex-direction:column;">
     <div class="form-group">
         <div style="margin-bottom: 13px;font-size: 24px; font-weight: 700;">EVENTOS</div>
     </div>
@@ -93,10 +93,7 @@
         </div>
 
     </div>
-</div>
-@endsection
-@section('labs')
-<div class="container_labs">
+    <div class="container_labs">
     <div style="margin-bottom: 13px;font-size: 24px; font-weight: 700;">Laboratórios de Tecnologia</div>
     <div class="row">
         <div class="col-md-12" style="margin-bottom: 10px;">
@@ -123,4 +120,8 @@
         </div>
     </div>
 </div>
+</div>
+@endsection
+@section('labs')
+
 @endsection
