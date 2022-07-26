@@ -7,6 +7,12 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     private $data = '{
+        "Horário BCC 2021.2":{
+            "title": "Horário BCC 2021.2",
+            "description":"Horário do Curso 2021.2",
+            "photo":"https://drive.google.com/uc?export=view&id=1Ykh2uN1ldkuFunrDIjMb1Ioww03mH0y4",
+            "date": "26/07/2022 - 00:00"
+        },
         "Horário BCC 2021.1":{
             "title": "Horário BCC 2021.1",
             "description": "Horário do Curso 2021.1",
