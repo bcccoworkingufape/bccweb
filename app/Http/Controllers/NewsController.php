@@ -8,6 +8,12 @@ class NewsController extends Controller
 {
 
     private $data = '{
+        "Horário BCC 2021.2":{
+            "title": "Horário BCC 2021.2",
+            "description": "<p><img width=\"1280px\"src=\"https://drive.google.com/uc?export=view&id=1Ykh2uN1ldkuFunrDIjMb1Ioww03mH0y4\"</p>",
+            "photo":"https://drive.google.com/uc?export=view&id=1Ykh2uN1ldkuFunrDIjMb1Ioww03mH0y4",
+            "date": "26/07/2022 - 00:00"
+        },
         "Horário BCC 2021.1":{
             "title": "Horário BCC 2021.1",
             "description": "<p><img width=\"1280px\"src=\"https://drive.google.com/uc?export=view&id=1XmHU4XjIgbqDWcI4oZb_RcZwof8LH1cC\"</p>",
