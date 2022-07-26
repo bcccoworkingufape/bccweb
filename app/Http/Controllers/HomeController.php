@@ -9,7 +9,7 @@ class HomeController extends Controller
     private $data = '{
         "Horário BCC 2021.2":{
             "title": "Horário BCC 2021.2",
-            "description": "<p><img width=\"1280px\"src=\"https://drive.google.com/uc?export=view&id=1Qzv2SOg6xKxESYDjvO62PC_q815624ww\"</p>",
+            "description": "Horário do Curso 2021.2",
             "photo":"https://drive.google.com/uc?export=view&id=1Qzv2SOg6xKxESYDjvO62PC_q815624ww",
             "date": "26/07/2022 - 00:00"
         },
