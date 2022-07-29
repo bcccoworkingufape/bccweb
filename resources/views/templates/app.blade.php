@@ -13,6 +13,7 @@
         @yield('head')
     </head>
     <body>
+        <div class="masterContainer">
         <div class="container header">
             <div class="header-center">
                     <a class='subtitle' href="/" style="display: flex;flex-direction: column;align-items:center;margin:12px 0">
@@ -25,7 +26,7 @@
 
         <!-- menu secundario -->
         <div style="display:flex;justify-content: center;"class="container">
-            <nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #e5e4e5; padding:10px;border-radius: 9px" >
+            <nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #e5e4e5; padding:10px;border-radius: 9px; width:100%" >
                 <div class="container menu">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar10">
                         <span class="navbar-toggler-icon" style="color: #black !important;"></span>
@@ -67,10 +68,10 @@
                             </li>
                             <li class="nav-item">
                                 @if(Route::is('remote'))
-                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="/ensino-remoto" style="color: #FF2323 !important"><strong> Ensino Remoto</strong></a>
+                                <a style="font-weight:bold; color:black !important;"class="nav-link" href="/ensino-remoto"> Ensino Remoto</a>
 
                                 @else
-                                <a class="nav-link" href="/ensino-remoto" style="color: #FF2323 !important"><strong> Ensino Remoto</strong></a>
+                                <a class="nav-link" href="/ensino-remoto">Ensino Remoto</a>
 
                                 @endif
                             </li>
@@ -140,7 +141,7 @@
                 @yield('labs')
             </div>
         </div>
-
+        </div>
         <!-- rodape -->
         <footer>
             <div class="row footer-container justify-content-center">

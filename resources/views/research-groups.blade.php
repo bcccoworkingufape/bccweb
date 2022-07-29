@@ -50,19 +50,6 @@
         <header>
             <img src="img/ciencia.png" alt="logo_grupos" />
             <div class="groups-info">
-                <a  target="tab" href="http://dgp.cnpq.br/dgp/espelhogrupo/176902"><strong>LINTED - Linguagem, Tecnologia e Educação</strong>{{--nome!--}}</a>
-            </div>
-        </header>
-        <p>
-            Coordenador: Robson Santos de Oliveira
-        </p>
-        <a  target="tab" href="http://dgp.cnpq.br/dgp/espelhogrupo/176902">http://dgp.cnpq.br/dgp/espelhogrupo/176902</a>
-    </li>
-
-    <li class="groups-item">
-        <header>
-            <img src="img/ciencia.png" alt="logo_grupos" />
-            <div class="groups-info">
                 <a  target="tab" href="http://dgp.cnpq.br/dgp/espelhogrupo/712395"><strong>Núcleo de Estudos em Tecnologias da Informação</strong>{{--nome!--}}</a>
             </div>
         </header>

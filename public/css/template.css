@@ -180,10 +180,12 @@
     text-align: center;
     margin-bottom: 0.9rem;
 }
-
+.masterContainer{
+    min-height: calc(100vh - 108px);
+}
 footer{
-    position: absolute;
-    height: auto;
+    display: inline-block;
+    height: 108px;
     background-color: #000000;
     width: 100%;
 }

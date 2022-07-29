@@ -10,7 +10,7 @@ class HomeController extends Controller
         "Horário BCC 2021.2":{
             "title": "Horário BCC 2021.2",
             "description": "Horário do Curso 2021.2",
-            "photo":"https://drive.google.com/uc?export=view&id=1Qzv2SOg6xKxESYDjvO62PC_q815624ww",
+            "photo":"https://drive.google.com/uc?export=view&id=1RoKnh5tl93sPSg1Vx-_9Z3g0ySUNUgHV",
             "date": "26/07/2022 - 00:00"
         },
         "Horário BCC 2021.1":{
