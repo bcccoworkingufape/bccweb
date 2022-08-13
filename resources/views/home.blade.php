@@ -56,52 +56,6 @@
             </div>
         </div>
         @endforeach
-{{--
-        <div class="col-md-12" style="margin-bottom: 10px;">
-            <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                <div class="event-number">1º</div>
-                <div class="form-group" style="margin-top: 10px;">
-                    <div class="textDiv" style="font-weight: 600; color: #1492E6;">Colação de Grau 2021.1</div>
-                    <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">17/08/2022</div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-12" style="margin-bottom: 10px;">
-            <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                <div class="event-number">2º</div>
-                <div class="form-group" style="margin-top: 10px;">
-                    <div class="textDiv" style="font-weight: 600; color: #1492E6;">Início Semestre Letivo e Aula Magna</div>
-                    <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">14/02/2022 e 24/02/2022</div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-12" style="margin-bottom: 10px;">
-            <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                <div class="event-number">3º</div>
-                <div class="form-group" style="margin-top: 10px;">
-                    <div class="textDiv" style="font-weight: 600; color: #1492E6;">Matrícula dos Alunos Regulares</div>
-                    <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">26-28/01/2022</div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-12" style="margin-bottom: 10px;">
-            <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                <div class="event-number">4º</div>
-                <div class="form-group" style="margin-top: 10px;">
-                    <div class="textDiv" style="font-weight: 600; color: #1492E6;">Reajuste de Matrícula</div>
-                    <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">21-23/02/2022</div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-12" style="margin-bottom: 10px;">
-            <div class="btn-group" style="background-color:#F9F9F9;width: 100%;border-radius: 12px;">
-                <div class="event-number">5º</div>
-                <div class="form-group" style="margin-top: 10px;">
-                    <div class="textDiv" style="font-weight: 600; color: #1492E6;">Evento IntegraBCC</div>
-                    <div class="textDiv" style="font-size: 12px;width: 95%;color: #707070;">14-18/02/2022</div>
-                </div>
-            </div>
-        </div> --}}
 
     </div>
     <div class="container_labs">
