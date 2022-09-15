@@ -10,21 +10,20 @@
     @foreach ($data as $news)
     <li class="news-item">
         <div class="img-container">
-            <a href="{{route('news.show',['id'=>$news->title])}}"><img src="{{$news->photo}}" alt="{{$news->title}}" width="54px" height="54px"/></a>
+            <a href="{{route('news.show',['id'=>$news->id])}}"><img src="{{$news->img}}" alt="{{$news->titulo}}" width="54px" height="54px"/></a>
         </div>
         <div class="news-info">
-            <div id="title" onclick="localtion.href='{{route('news.show',['id'=>$news->title])}}'">
-                <a href="{{route('news.show',['id'=>$news->title])}}"><strong>{{$news->title}}</strong></a>
+            <div id="title" onclick="localtion.href='{{route('news.show',['id'=>$news->id])}}'">
+                <a href="{{route('news.show',['id'=>$news->id])}}"><strong>{{$news->titulo}}</strong></a>
             </div>
             <div id="date">
-                <span>{{$news->date}}</span>
+                <span>{{date('d/m/Y H:i:s',strtotime((int)$news->created_at))}}</span>
             </div>
             <div id="description">
-                <p>{{strip_tags($news->description)}}</p>
+                <p>{{strip_tags($news->descricao)}}</p>
             </div>
 
         </div>
-            {{-- <a  target="tab" href="{{$news->lattes}}">Acessar Lattes</a> --}}
 
     </li>
     @endforeach
