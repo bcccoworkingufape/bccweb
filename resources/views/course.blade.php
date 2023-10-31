@@ -77,20 +77,20 @@
         </li>
     </ul>
     <div class="centerTest">
-    <div class="contact center">
-        <div class="course">Coordenação:</div>
-        <div class="course"></div>
-        <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
-        <br>
-        <p style="font-weight:bold;">Thaís Alves Burity Rocha</p>
-        <a href="mailto:thais.burity@ufape.edu.br">thais.burity@ufape.edu.br</a>
-        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/9619297279269411" target="_blank">http://lattes.cnpq.br/9619297279269411</a>
-        <div class="course"></div>
-        <p style="font-weight:bold;">Tiago Buarque Assunção de Carvalho</p>
-        <a href="mailto:kadna.camboim@ufape.edu.br">tiago.buarque@ufape.edu.br</a>
-        <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/7150833804013500" target="_blank">http://lattes.cnpq.br/7150833804013500</a>
+        <div class="contact center">
+            <div class="course">Coordenação:</div>
+            <div class="course"></div>
+            <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
+            <br>
+            <p style="font-weight:bold;">Thaís Alves Burity Rocha</p>
+            <a href="mailto:thais.burity@ufape.edu.br">thais.burity@ufape.edu.br</a>
+            <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/9619297279269411" target="_blank">http://lattes.cnpq.br/9619297279269411</a>
+            <div class="course"></div>
+            <p style="font-weight:bold;">Ícaro Lins Leitão da Cunha</p>
+            <a href="mailto:icaro.cunha@ufape.edu.br">icaro.cunha@ufape.edu.br</a>
+            <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/6577405976489740" target="_blank">http://lattes.cnpq.br/6577405976489740</a>
 
-    </div>
+        </div>
     <!-- <div style="margin-top:20px"class="contact center">
         <h3 id="title">Colegiados/Comissões</h3>
         <div class="course">NDE – Núcleo Docente Estruturante:</div>
