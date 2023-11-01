@@ -35,7 +35,7 @@
     <div class="course">Áreas de Atividade do Cientista da Computação</div>
     <ul class="areasList">
         <li class="areaItem">
-            <img src="https://image.flaticon.com/icons/png/512/51/51334.png">
+            <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png">
             <p class="bold">Banco de Dados</p>
         </li>
         <li class="areaItem">
@@ -47,7 +47,7 @@
             <p class="bold">Inteligência Computacional</p>
         </li>
         <li class="areaItem">
-            <img src="https://image.flaticon.com/icons/png/512/22/22919.png">
+            <img src="https://www.somosicev.com/wp-content/uploads/2017/08/escoladetecnologia-icon2.png">
             <p class="bold">Redes e Sistemas Distribuídos</p>
         </li>
         <li class="areaItem">
@@ -60,7 +60,7 @@
         </li>
 
         <li class="areaItem">
-            <img src="https://ocw.mit.edu/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/10-34f15-1.jpg">
+            <img src="https://cdn-icons-png.flaticon.com/512/5609/5609494.png">
             <p class="bold">Matemática e Simulação Computacional</p>
         </li>
         <li class="areaItem">
@@ -82,13 +82,13 @@
             <div class="course"></div>
             <a href="mailto:coordenacao.bcc@ufape.edu.br">coordenacao.bcc@ufape.edu.br</a>
             <br>
-            <p style="font-weight:bold;">Thaís Alves Burity Rocha</p>
-            <a href="mailto:thais.burity@ufape.edu.br">thais.burity@ufape.edu.br</a>
-            <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/9619297279269411" target="_blank">http://lattes.cnpq.br/9619297279269411</a>
-            <div class="course"></div>
-            <p style="font-weight:bold;">Ícaro Lins Leitão da Cunha</p>
+            <p style="font-weight:bold;">Ícaro Lins Leitão da Cunhaa</p>
             <a href="mailto:icaro.cunha@ufape.edu.br">icaro.cunha@ufape.edu.br</a>
             <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/6577405976489740" target="_blank">http://lattes.cnpq.br/6577405976489740</a>
+            <div class="course"></div>
+            <p style="font-weight:bold;">Priscilla Kelly Machado Vieira</p>
+            <a href="mailto:priscilla.azevedo@ufape.edu.br">priscilla.azevedo@ufape.edu.br</a>
+            <a class="lattes" style="font-weight:normal; text-decoration:underline;" href="http://lattes.cnpq.br/6410600495701632" target="_blank">http://lattes.cnpq.br/6410600495701632</a>
 
         </div>
     <!-- <div style="margin-top:20px"class="contact center">
