@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 class TeachersController extends Controller
 {
     private $data = '{
+
         "AlixandreThiagoFerreiraSantana": {
             "name":"Alixandre Thiago Ferreira Santana",
             "area":"Tecnologia da Informação",
@@ -196,6 +197,15 @@ class TeachersController extends Controller
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4483741J6"
         },
+        "RenêPereiradeGusmão": {
+            "name":"Renê Pereira de Gusmão",
+            "area":"Inteligência Computacional",
+            "email":"rene.gusmao@ufape.edu.br",
+            "site":"#",
+            "lattes":"http://lattes.cnpq.br/5859661975093751",
+            "info":"",
+            "photo":"https://www.sigaa.ufs.br/sigaa/verFoto?idFoto=2611000&key=cf777a1cfe0c6f655f99e4e88630b6a4"
+        },
         "RobsonSantosdeOliveira": {
             "name":"Robson Santos de Oliveira",
             "area":"Letras",
@@ -286,6 +296,7 @@ class TeachersController extends Controller
             "info":"",
             "photo":"http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4266656Y3"
         }
+        
 
     }';
     public function index(){
